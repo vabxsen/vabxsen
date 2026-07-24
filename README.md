@@ -107,9 +107,9 @@
 
 <br/>
 
-<img src="assets/anime-point-left.png" width="420" align="right"/>
+<img src="assets/anime-point-left.png" width="280" align="right"/>
 
-<img src="assets/if-you-know-you-know.png" width="200"/>
+<img src="assets/if-you-know-you-know.png" width="130"/>
 <br/><br/>
 <a href="#get-in-touch"><img src="https://img.shields.io/badge/GET%20IN%20TOUCH!-ea4335?style=for-the-badge&logo=medium&logoColor=white" alt="Get in touch"/></a>
 
