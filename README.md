@@ -71,6 +71,14 @@
 
 <br/>
 
+<div align="center">
+
+<img src="assets/spotify-player.gif?v=3" alt="Now playing" width="500"/>
+
+</div>
+
+<br/>
+
 ## Get in touch
 
 <img src="assets/anime-point-left.png" width="46%" align="right"/>
