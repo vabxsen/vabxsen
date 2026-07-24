@@ -16,10 +16,17 @@
 
 ## About
 
-- Building small, sharp apps solo — currently deep in **Slip**, **Doclee**, **Nexrig**, **PricePilot** and **Dailynx**
-- Started with Python automation & CV projects (drowsiness detection, QR tools, TTS)
-- Now mostly living in TypeScript/React + Firebase land
-- Learning in public — check out my [Python roadmap repo](https://github.com/vabxsen/Advanced-Python-Roadmap-by-vabxsen)
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Cascadia+Code&weight=600&size=20&duration=2200&pause=600&color=22D3EE&center=true&vCenter=true&width=600&lines=%F0%9F%9A%80+Shipping+fast%2C+fixing+faster;%F0%9F%90%8D+Pythonista+turned+TypeScript;%F0%9F%8C%99+Late-night+coder;%E2%9A%A1+Solo+builder+energy" alt="About typing SVG"/>
+
+</div>
+
+- 🛠️ Building small, sharp apps solo — currently deep in **Slip** 📱, **Doclee** 📄, **Nexrig** ⚙️, **PricePilot** 💸 and **Dailynx** 🗓️
+- 🐍 Started with Python automation & CV projects (👁️ drowsiness detection, 🔳 QR tools, 🔊 TTS)
+- 🌐 Now mostly living in TypeScript/React + Firebase land
+- 📚 Learning in public — check out my [Python roadmap repo](https://github.com/vabxsen/Advanced-Python-Roadmap-by-vabxsen) 🗺️
+- ☕ Fueled by late nights and too much coffee
 
 <br/>
 
