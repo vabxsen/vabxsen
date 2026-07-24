@@ -85,9 +85,9 @@
 
 ## Get in touch
 
-<img src="assets/anime-point-left.png" width="480" align="right"/>
+<img src="assets/anime-point-left.png" width="46%" align="right"/>
 
-<img src="assets/if-you-know-you-know.png" width="260"/>
+<img src="assets/if-you-know-you-know.png" width="25%"/>
 <br/><br/>
 <a href="https://www.instagram.com/vabxsen"><img src="https://img.shields.io/badge/GET%20IN%20TOUCH!-ea4335?style=for-the-badge&logo=medium&logoColor=white" alt="Get in touch"/></a>
 
