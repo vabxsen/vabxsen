@@ -107,15 +107,10 @@
 
 <br/>
 
-<table width="100%">
-  <tr>
-    <td width="35%" align="left" valign="top">
-      <img src="assets/if-you-know-you-know.png" width="260"/>
-      <br/><br/>
-      <a href="#get-in-touch"><img src="https://img.shields.io/badge/GET%20IN%20TOUCH!-ea4335?style=for-the-badge&logo=medium&logoColor=white" alt="Get in touch"/></a>
-    </td>
-    <td width="65%" align="right" valign="top">
-      <img src="assets/anime-point-left.png" width="560"/>
-    </td>
-  </tr>
-</table>
+<img src="assets/anime-point-left.png" width="560" align="right"/>
+
+<img src="assets/if-you-know-you-know.png" width="260"/>
+<br/><br/>
+<a href="#get-in-touch"><img src="https://img.shields.io/badge/GET%20IN%20TOUCH!-ea4335?style=for-the-badge&logo=medium&logoColor=white" alt="Get in touch"/></a>
+
+<br clear="both"/>
