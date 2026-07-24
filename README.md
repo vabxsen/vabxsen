@@ -89,6 +89,6 @@
 
 <img src="assets/if-you-know-you-know.png" width="25%"/>
 <br/><br/>
-<a href="https://www.instagram.com/vabxsen"><img src="https://img.shields.io/badge/GET%20IN%20TOUCH!-ea4335?style=for-the-badge&logo=medium&logoColor=white" alt="Get in touch"/></a>
+<a href="mailto:cheeseburst06@gmail.com"><img src="https://img.shields.io/badge/GET%20IN%20TOUCH!-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Get in touch"/></a>
 
 <br clear="both"/>
