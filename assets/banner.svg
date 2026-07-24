@@ -1,0 +1,51 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0a0f"/>
+      <stop offset="100%" stop-color="#14141d"/>
+    </linearGradient>
+
+    <linearGradient id="fade-right" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="55%" stop-color="#0a0a0f" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#0a0a0f" stop-opacity="0.55"/>
+    </linearGradient>
+
+    <pattern id="traces" width="120" height="120" patternUnits="userSpaceOnUse">
+      <path d="M0 20 H40 V60 H90" fill="none" stroke="#8b5cf6" stroke-width="1" opacity="0.14"/>
+      <path d="M60 0 V30 H120" fill="none" stroke="#8b5cf6" stroke-width="1" opacity="0.10"/>
+      <path d="M10 90 H55 V120" fill="none" stroke="#22d3ee" stroke-width="1" opacity="0.10"/>
+      <circle cx="40" cy="60" r="2.4" fill="#8b5cf6" opacity="0.35"/>
+      <circle cx="90" cy="60" r="2.4" fill="#8b5cf6" opacity="0.2"/>
+      <circle cx="55" cy="90" r="2.4" fill="#22d3ee" opacity="0.3"/>
+    </pattern>
+
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="4.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#traces)"/>
+
+  <!-- glowing highlight trace running through the composition -->
+  <path d="M0 235 H260 V150 H520 V190 H720" fill="none" stroke="#8b5cf6" stroke-width="1.5" opacity="0.55" filter="url(#glow)"/>
+  <circle cx="520" cy="150" r="3.5" fill="#8b5cf6" filter="url(#glow)"/>
+  <circle cx="720" cy="190" r="3.5" fill="#22d3ee" filter="url(#glow)"/>
+
+  <path d="M1200 70 H980 V115 H860" fill="none" stroke="#22d3ee" stroke-width="1.5" opacity="0.4" filter="url(#glow)"/>
+  <circle cx="860" cy="115" r="3" fill="#22d3ee" filter="url(#glow)"/>
+
+  <!-- oversized faint code glyph, right side -->
+  <text x="1000" y="230" font-family="'Cascadia Code','Fira Code',Consolas,monospace" font-size="220" font-weight="700" fill="#8b5cf6" opacity="0.06" text-anchor="middle">&lt;/&gt;</text>
+
+  <rect width="1200" height="300" fill="url(#fade-right)"/>
+
+  <!-- name / tagline -->
+  <text x="70" y="140" font-family="'Cascadia Code','Fira Code',Consolas,monospace" font-size="52" font-weight="700" fill="#f5f5f7" letter-spacing="1">VAIBHAV SEN</text>
+  <rect x="72" y="160" width="64" height="3" fill="#8b5cf6"/>
+  <text x="70" y="196" font-family="'Cascadia Code','Fira Code',Consolas,monospace" font-size="19" font-weight="500" fill="#a78bfa" letter-spacing="3">INDIE DEVELOPER &#8226; SOLO BUILDER</text>
+</svg>
