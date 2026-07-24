@@ -81,8 +81,6 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,100:1a1a2e&height=120&section=footer" width="100%"/>
-
 ## Get in touch
 
 <img src="assets/anime-point-left.png" width="46%" align="right"/>
