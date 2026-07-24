@@ -8,10 +8,6 @@
 
 <br/><br/>
 
-<img src="assets/spotify-player.gif" alt="Now playing" width="500"/>
-
-<br/><br/>
-
 <img src="assets/xp-bar.svg" alt="Level 12, 5 of 25 XP to Level 13, based on 305 contributions this year"/>
 
 </div>
@@ -80,6 +76,14 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vabxsen/vabxsen/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vabxsen/vabxsen/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="assets/spotify-player.gif" alt="Now playing" width="500"/>
 
 </div>
 
