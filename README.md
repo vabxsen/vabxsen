@@ -73,7 +73,7 @@
 
 <div align="center">
 
-<img src="assets/spotify-player.gif" alt="Now playing" width="500"/>
+<img src="assets/spotify-player.gif?v=2" alt="Now playing" width="500"/>
 
 </div>
 
