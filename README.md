@@ -57,16 +57,6 @@
 
 <br/>
 
-## Achievements
-
-<div align="center">
-
-<img src="https://github-trophies.vercel.app/?username=vabxsen&theme=dracula&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10" alt="trophies"/>
-
-</div>
-
-<br/>
-
 ## Contribution Snake
 
 <div align="center">
