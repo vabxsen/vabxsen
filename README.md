@@ -6,7 +6,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=vabxsen&color=8b5cf6&style=flat-square&label=PROFILE+VIEWS" alt="profile views"/>
 
-<br/>
+<br/><br/>
 
 <img src="assets/xp-bar.svg" alt="Level 12, 5 of 25 XP to Level 13, based on 305 contributions this year"/>
 
