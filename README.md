@@ -81,11 +81,12 @@
 
 <br/>
 
-## Connect
+## Get in Touch!
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vabxsen)
+[![Instagram](https://img.shields.io/badge/Say%20hi%20on%20Instagram-8b5cf6?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vabxsen)
+
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-5536-2058)
 
 <!-- Add more badges here, e.g. LinkedIn / email / portfolio, once you have links for them -->
