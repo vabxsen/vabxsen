@@ -67,16 +67,6 @@
 
 <br/>
 
-## Contribution Snake
-
-<div align="center">
-
-<img alt="cyberpunk snake animation" src="assets/cyberpunk-snake.gif" width="100%"/>
-
-</div>
-
-<br/>
-
 ## Get in touch
 
 <img src="assets/anime-point-left.png" width="46%" align="right"/>
