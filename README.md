@@ -33,22 +33,6 @@
 
 <br/>
 
-## Quest Log
-
-<!-- Edit statuses/descriptions below to match reality exactly. -->
-
-| Status | Quest | Notes |
-|---|---|---|
-| 🚧 In Progress | [**Slip**](https://github.com/vabxsen/Slip) | _Edit me: one-line description_ |
-| ✅ Shipped | [**Doclee**](https://github.com/vabxsen/Doclee) | Doc/image conversion tool |
-| 🚧 In Progress | [**Nexrig**](https://github.com/vabxsen/Nexrig) | _Edit me: one-line description_ |
-| 🚧 In Progress | [**PricePilot**](https://github.com/vabxsen/PricePilot) | _Edit me: one-line description_ |
-| 🚧 In Progress | [**Dailynx**](https://github.com/vabxsen/Dailynx) | _Edit me: one-line description_ |
-| ✅ Shipped | [**Driver-Eye-Detection**](https://github.com/vabxsen/Driver-Eye-Detection) | Real-time driver drowsiness detection using OpenCV and MediaPipe |
-| ✅ Shipped | [**Python Roadmap**](https://github.com/vabxsen/Advanced-Python-Roadmap-by-vabxsen) | 15-topic code-first Python learning path |
-
-<br/>
-
 ## GitHub Stats
 
 <div align="center">
