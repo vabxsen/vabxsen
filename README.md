@@ -32,16 +32,25 @@
 
 ## 📊 GitHub Stats
 
-<!-- Using the gh-readme-stats.vercel.app mirror because the official github-readme-stats.vercel.app
-     demo instance gets rate-limited/paused often. If this mirror ever goes down, swap the host in
-     these two <img> URLs for another live instance, or self-host: https://github.com/anuraghazra/github-readme-stats -->
+<!-- Stats/top-langs use the gh-readme-stats.vercel.app mirror (official github-readme-stats.vercel.app
+     demo gets rate-limited/paused often). Trophies use github-trophies.vercel.app (official
+     github-profile-trophy.vercel.app demo is currently disabled). If a mirror ever goes down, swap the
+     host, or self-host: https://github.com/anuraghazra/github-readme-stats -->
 
 <div align="center">
 
-<img height="165" src="https://gh-readme-stats.vercel.app/api?username=vabxsen&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="vabxsen's github stats"/>
-<img height="165" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=vabxsen&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="top languages"/>
+<table>
+  <tr>
+    <td><img height="180" src="https://gh-readme-stats.vercel.app/api?username=vabxsen&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" alt="vabxsen's github stats"/></td>
+    <td><img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=vabxsen&theme=tokyonight&hide_border=true&border_radius=12" alt="streak stats"/></td>
+  </tr>
+</table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vabxsen&theme=radical&hide_border=true" alt="streak stats"/>
+<img width="360" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=vabxsen&theme=tokyonight&hide_border=true&border_radius=12&layout=donut&langs_count=8" alt="top languages"/>
+
+<br/><br/>
+
+<img src="https://github-trophies.vercel.app/?username=vabxsen&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8" alt="trophies"/>
 
 </div>
 
