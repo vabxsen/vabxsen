@@ -1,0 +1,74 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bodyGrad" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="442" y2="0">
+      <stop offset="0%" stop-color="#7c3aed"/>
+      <stop offset="50%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#39ff14"/>
+    </linearGradient>
+    <radialGradient id="spot" cx="50%" cy="45%" r="55%">
+      <stop offset="0%" stop-color="#ff2bd6" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#ff2bd6" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="neonGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="260" fill="#000000"/>
+  <rect width="1200" height="260" fill="url(#spot)"/>
+
+  <g stroke="#22d3ee" stroke-width="1" opacity="0.12">
+    <line x1="0" y1="150" x2="1200" y2="150"/>
+    <line x1="0" y1="172" x2="1200" y2="172"/>
+    <line x1="0" y1="194" x2="1200" y2="194"/>
+    <line x1="0" y1="216" x2="1200" y2="216"/>
+    <line x1="0" y1="238" x2="1200" y2="238"/>
+    <line x1="0" y1="260" x2="1200" y2="260"/>
+  </g>
+  <g stroke="#7c3aed" stroke-width="1" opacity="0.1">
+    <line x1="100" y1="150" x2="60" y2="260"/>
+    <line x1="300" y1="150" x2="270" y2="260"/>
+    <line x1="500" y1="150" x2="480" y2="260"/>
+    <line x1="700" y1="150" x2="720" y2="260"/>
+    <line x1="900" y1="150" x2="930" y2="260"/>
+    <line x1="1100" y1="150" x2="1140" y2="260"/>
+  </g>
+
+  <g filter="url(#neonGlow)">
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="-500,0;1250,0" dur="9s" repeatCount="indefinite"/>
+
+      <g transform="translate(0,0)"><g><animateTransform attributeName="transform" type="translate" values="0,0;0,-15;0,0;0,15;0,0" dur="1.4s" begin="0.00s" repeatCount="indefinite"/><circle cx="0" cy="100" r="6.00" fill="url(#bodyGrad)"/></g></g>
+      <g transform="translate(34,0)"><g><animateTransform attributeName="transform" type="translate" values="0,0;0,-15;0,0;0,15;0,0" dur="1.4s" begin="0.08s" repeatCount="indefinite"/><circle cx="0" cy="100" r="7.25" fill="url(#bodyGrad)"/></g></g>
+      <g transform="translate(68,0)"><g><animateTransform attributeName="transform" type="translate" values="0,0;0,-15;0,0;0,15;0,0" dur="1.4s" begin="0.16s" repeatCount="indefinite"/><circle cx="0" cy="100" r="8.50" fill="url(#bodyGrad)"/></g></g>
+      <g transform="translate(102,0)"><g><animateTransform attributeName="transform" type="translate" values="0,0;0,-15;0,0;0,15;0,0" dur="1.4s" begin="0.24s" repeatCount="indefinite"/><circle cx="0" cy="100" r="9.75" fill="url(#bodyGrad)"/></g></g>
+      <g transform="translate(136,0)"><g><animateTransform attributeName="transform" type="translate" values="0,0;0,-15;0,0;0,15;0,0" dur="1.4s" begin="0.32s" repeatCount="indefinite"/><circle cx="0" cy="100" r="11.00" fill="url(#bodyGrad)"/></g></g>
+      <g transform="translate(170,0)"><g><animateTransform attributeName="transform" type="translate" values="0,0;0,-15;0,0;0,15;0,0" dur="1.4s" begin="0.40s" repeatCount="indefinite"/><circle cx="0" cy="100" r="12.25" fill="url(#bodyGrad)"/></g></g>
+      <g transform="translate(204,0)"><g><animateTransform attributeName="transform" type="translate" values="0,0;0,-15;0,0;0,15;0,0" dur="1.4s" begin="0.48s" repeatCount="indefinite"/><circle cx="0" cy="100" r="13.50" fill="url(#bodyGrad)"/></g></g>
+      <g transform="translate(238,0)"><g><animateTransform attributeName="transform" type="translate" values="0,0;0,-15;0,0;0,15;0,0" dur="1.4s" begin="0.56s" repeatCount="indefinite"/><circle cx="0" cy="100" r="14.75" fill="url(#bodyGrad)"/></g></g>
+      <g transform="translate(272,0)"><g><animateTransform attributeName="transform" type="translate" values="0,0;0,-15;0,0;0,15;0,0" dur="1.4s" begin="0.64s" repeatCount="indefinite"/><circle cx="0" cy="100" r="16.00" fill="url(#bodyGrad)"/></g></g>
+      <g transform="translate(306,0)"><g><animateTransform attributeName="transform" type="translate" values="0,0;0,-15;0,0;0,15;0,0" dur="1.4s" begin="0.72s" repeatCount="indefinite"/><circle cx="0" cy="100" r="17.25" fill="url(#bodyGrad)"/></g></g>
+      <g transform="translate(340,0)"><g><animateTransform attributeName="transform" type="translate" values="0,0;0,-15;0,0;0,15;0,0" dur="1.4s" begin="0.80s" repeatCount="indefinite"/><circle cx="0" cy="100" r="18.50" fill="url(#bodyGrad)"/></g></g>
+      <g transform="translate(374,0)"><g><animateTransform attributeName="transform" type="translate" values="0,0;0,-15;0,0;0,15;0,0" dur="1.4s" begin="0.88s" repeatCount="indefinite"/><circle cx="0" cy="100" r="19.75" fill="url(#bodyGrad)"/></g></g>
+      <g transform="translate(408,0)"><g><animateTransform attributeName="transform" type="translate" values="0,0;0,-15;0,0;0,15;0,0" dur="1.4s" begin="0.96s" repeatCount="indefinite"/><circle cx="0" cy="100" r="21.00" fill="url(#bodyGrad)"/></g></g>
+
+      <g transform="translate(442,0)">
+        <g>
+          <animateTransform attributeName="transform" type="translate" values="0,0;0,-15;0,0;0,15;0,0" dur="1.4s" begin="1.04s" repeatCount="indefinite"/>
+          <circle cx="0" cy="100" r="22.25" fill="url(#bodyGrad)"/>
+          <circle cx="6" cy="92" r="3" fill="#faff00"/>
+          <circle cx="6" cy="108" r="3" fill="#faff00"/>
+          <circle cx="6" cy="92" r="1.2" fill="#000000"/>
+          <circle cx="6" cy="108" r="1.2" fill="#000000"/>
+          <path d="M22,100 L38,100 L45,95 M38,100 L45,105" stroke="#ff2bd6" stroke-width="1.5" fill="none" opacity="0">
+            <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.4;0.45;0.55;0.6;1" dur="2.4s" repeatCount="indefinite"/>
+          </path>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
