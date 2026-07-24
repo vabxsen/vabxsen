@@ -107,10 +107,6 @@
 
 ## Get in touch
 
-<img src="assets/anime-point-left.png" width="200" align="right"/>
-
-<img src="assets/if-you-know-you-know.png" width="95"/>
+<img src="assets/if-you-know-you-know.png" width="95"/><img src="assets/anime-point-left.png" width="200"/>
 <br/>
 <a href="#get-in-touch"><img src="https://img.shields.io/badge/GET%20IN%20TOUCH!-ea4335?style=for-the-badge&logo=medium&logoColor=white" alt="Get in touch"/></a>
-
-<br clear="both"/>
