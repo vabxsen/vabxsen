@@ -57,24 +57,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vabxsen/vabxsen/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
-<sub>⚠️ This animates once the `snake.yml` GitHub Action has run at least once on the real repo — see setup steps below.</sub>
-
 </div>
-
-<br/>
-
-## 🚀 Featured Projects
-
-<!-- Edit the descriptions below to match each project exactly — filled in with best-guess placeholders. -->
-
-| Project | Description | Stack |
-|---|---|---|
-| 🔗 [**Slip**](https://github.com/vabxsen/Slip) | _Edit me: one-line description of Slip_ | TypeScript |
-| 🔗 [**Doclee**](https://github.com/vabxsen/Doclee) | _Edit me: doc/image conversion tool_ | TypeScript, Firebase |
-| 🔗 [**Nexrig**](https://github.com/vabxsen/Nexrig) | _Edit me: one-line description of Nexrig_ | TypeScript |
-| 🔗 [**PricePilot**](https://github.com/vabxsen/PricePilot) | _Edit me: one-line description of PricePilot_ | TypeScript |
-| 🔗 [**Dailynx**](https://github.com/vabxsen/Dailynx) | _Edit me: one-line description of Dailynx_ | TypeScript |
-| 🔗 [**Driver-Eye-Detection**](https://github.com/vabxsen/Driver-Eye-Detection) | Real-time driver drowsiness detection using OpenCV and MediaPipe | Python, OpenCV |
 
 <br/>
 
