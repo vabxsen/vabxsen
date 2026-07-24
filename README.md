@@ -38,14 +38,14 @@
 
 <div align="center">
 
-<table>
+<table width="100%">
   <tr>
-    <td><img height="180" src="https://gh-readme-stats.vercel.app/api?username=vabxsen&show_icons=true&theme=nightowl&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" alt="vabxsen's github stats"/></td>
-    <td><img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=vabxsen&theme=nightowl&hide_border=true&border_radius=12" alt="streak stats"/></td>
+    <td width="50%"><img width="100%" src="https://gh-readme-stats.vercel.app/api?username=vabxsen&show_icons=true&theme=nightowl&hide_border=true&border_radius=12&bg_color=000000&include_all_commits=true&count_private=true" alt="vabxsen's github stats"/></td>
+    <td width="50%"><img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=vabxsen&theme=nightowl&hide_border=true&border_radius=12&background=000000" alt="streak stats"/></td>
   </tr>
 </table>
 
-<img width="360" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=vabxsen&theme=nightowl&hide_border=true&border_radius=12&layout=donut&langs_count=8" alt="top languages"/>
+<img width="360" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=vabxsen&theme=nightowl&hide_border=true&border_radius=12&bg_color=000000&layout=donut&langs_count=8" alt="top languages"/>
 
 </div>
 
