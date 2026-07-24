@@ -81,34 +81,12 @@
 
 <br/>
 
-## Get in Touch!
-
-<!-- Illustration: unDraw "Contact Us" (MIT-style license, free for any use, no attribution required)
-     https://undraw.co - source SVG hotlinked from https://github.com/mkhairi/undraw -->
-
-<table width="100%">
-  <tr>
-    <td width="55%" align="center">
-      <img src="https://raw.githubusercontent.com/mkhairi/undraw/master/vendor/assets/images/undraw/contact_us.svg" width="100%" alt="Contact illustration"/>
-    </td>
-    <td width="45%" align="center">
-      <br/>
-      <a href="https://www.instagram.com/vabxsen"><img src="https://img.shields.io/badge/Say%20hi%20on%20Instagram-8b5cf6?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-      <br/><br/>
-      <a href="https://orcid.org/0009-0000-5536-2058"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
-      <br/>
-    </td>
-  </tr>
-</table>
-
-<!-- Add more badges here, e.g. LinkedIn / email / portfolio, once you have links for them -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,100:1a1a2e&height=120&section=footer" width="100%"/>
 
 <img src="assets/anime-point-left.png" width="480" align="right"/>
 
 <img src="assets/if-you-know-you-know.png" width="260"/>
 <br/><br/>
-<a href="#get-in-touch"><img src="https://img.shields.io/badge/GET%20IN%20TOUCH!-ea4335?style=for-the-badge&logo=medium&logoColor=white" alt="Get in touch"/></a>
+<a href="https://www.instagram.com/vabxsen"><img src="https://img.shields.io/badge/GET%20IN%20TOUCH!-ea4335?style=for-the-badge&logo=medium&logoColor=white" alt="Get in touch"/></a>
 
 <br clear="both"/>
