@@ -6,6 +6,10 @@
 
 <img src="https://komarev.com/ghpvc/?username=vabxsen&color=8b5cf6&style=flat-square&label=PROFILE+VIEWS" alt="profile views"/>
 
+<br/>
+
+<img src="assets/xp-bar.svg" alt="Level 12, 5 of 25 XP to Level 13, based on 305 contributions this year"/>
+
 </div>
 
 <br/>
@@ -29,6 +33,22 @@
 
 <br/>
 
+## Quest Log
+
+<!-- Edit statuses/descriptions below to match reality exactly. -->
+
+| Status | Quest | Notes |
+|---|---|---|
+| 🚧 In Progress | [**Slip**](https://github.com/vabxsen/Slip) | _Edit me: one-line description_ |
+| ✅ Shipped | [**Doclee**](https://github.com/vabxsen/Doclee) | Doc/image conversion tool |
+| 🚧 In Progress | [**Nexrig**](https://github.com/vabxsen/Nexrig) | _Edit me: one-line description_ |
+| 🚧 In Progress | [**PricePilot**](https://github.com/vabxsen/PricePilot) | _Edit me: one-line description_ |
+| 🚧 In Progress | [**Dailynx**](https://github.com/vabxsen/Dailynx) | _Edit me: one-line description_ |
+| ✅ Shipped | [**Driver-Eye-Detection**](https://github.com/vabxsen/Driver-Eye-Detection) | Real-time driver drowsiness detection using OpenCV and MediaPipe |
+| ✅ Shipped | [**Python Roadmap**](https://github.com/vabxsen/Advanced-Python-Roadmap-by-vabxsen) | 15-topic code-first Python learning path |
+
+<br/>
+
 ## GitHub Stats
 
 <div align="center">
@@ -41,6 +61,16 @@
 </table>
 
 <img width="360" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=vabxsen&hide_border=true&border_radius=12&bg_color=000000&title_color=8b5cf6&text_color=e6e6e6&layout=donut&langs_count=8" alt="top languages"/>
+
+</div>
+
+<br/>
+
+## Achievements
+
+<div align="center">
+
+<img src="https://github-trophies.vercel.app/?username=vabxsen&theme=dracula&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10" alt="trophies"/>
 
 </div>
 
