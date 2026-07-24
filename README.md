@@ -105,7 +105,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,100:1a1a2e&height=120&section=footer" width="100%"/>
 
-<img src="assets/anime-point-left.png" width="560" align="right"/>
+<img src="assets/anime-point-left.png" width="480" align="right"/>
 
 <img src="assets/if-you-know-you-know.png" width="260"/>
 <br/><br/>
