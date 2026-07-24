@@ -8,6 +8,10 @@
 
 <br/><br/>
 
+<img src="assets/spotify-player.gif" alt="Now playing" width="500"/>
+
+<br/><br/>
+
 <img src="assets/xp-bar.svg" alt="Level 12, 5 of 25 XP to Level 13, based on 305 contributions this year"/>
 
 </div>
