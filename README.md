@@ -83,14 +83,24 @@
 
 ## Get in Touch!
 
-<div align="center">
+<!-- Illustration: unDraw "Contact Us" (MIT-style license, free for any use, no attribution required)
+     https://undraw.co - source SVG hotlinked from https://github.com/mkhairi/undraw -->
 
-[![Instagram](https://img.shields.io/badge/Say%20hi%20on%20Instagram-8b5cf6?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vabxsen)
-
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-5536-2058)
+<table width="100%">
+  <tr>
+    <td width="55%" align="center">
+      <img src="https://raw.githubusercontent.com/mkhairi/undraw/master/vendor/assets/images/undraw/contact_us.svg" width="100%" alt="Contact illustration"/>
+    </td>
+    <td width="45%" align="center">
+      <br/>
+      <a href="https://www.instagram.com/vabxsen"><img src="https://img.shields.io/badge/Say%20hi%20on%20Instagram-8b5cf6?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+      <br/><br/>
+      <a href="https://orcid.org/0009-0000-5536-2058"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
+      <br/>
+    </td>
+  </tr>
+</table>
 
 <!-- Add more badges here, e.g. LinkedIn / email / portfolio, once you have links for them -->
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,100:1a1a2e&height=120&section=footer" width="100%"/>
