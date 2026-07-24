@@ -71,7 +71,7 @@
 
 <div align="center">
 
-<img alt="cyberpunk snake animation" src="assets/cyberpunk-snake.svg?v=2" width="100%"/>
+<img alt="cyberpunk snake animation" src="assets/cyberpunk-snake.svg?v=3" width="100%"/>
 
 </div>
 
