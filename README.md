@@ -71,7 +71,11 @@
 
 <div align="center">
 
-<img alt="cyberpunk snake animation" src="assets/cyberpunk-snake.svg" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vabxsen/vabxsen/output/github-contribution-grid-snake-dark.gif?v=3" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vabxsen/vabxsen/output/github-contribution-grid-snake.gif?v=3" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vabxsen/vabxsen/output/github-contribution-grid-snake.gif?v=3" width="100%"/>
+</picture>
 
 </div>
 
