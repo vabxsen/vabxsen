@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=pulse&color=0:0a0a0f,50:8b5cf6,100:22d3ee&height=200&section=header&text=Vaibhav%20Sen&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Indie%20Developer%20%E2%80%A2%20Solo%20Builder&descAlignY=62&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=pulse&color=0:0a0a0f,50:8b5cf6,100:22d3ee&height=200&section=header&text=Vaibhav%20Sen&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=Indie%20Developer%20%E2%80%A2%20Solo%20Builder&descAlignY=62&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Cascadia+Code&weight=600&size=22&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&width=650&lines=Solo+dev+building+Slip%2C+Doclee+%26+more;Python+%7C+TypeScript+%7C+React+%7C+Firebase;Turning+3am+ideas+into+real+apps" alt="Typing SVG" />
 
