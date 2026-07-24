@@ -1,9 +1,9 @@
 <svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0a0a0f"/>
-      <stop offset="50%" stop-color="#8b5cf6"/>
-      <stop offset="100%" stop-color="#22d3ee"/>
+      <stop offset="0%" stop-color="#000000"/>
+      <stop offset="50%" stop-color="#0a0a0f"/>
+      <stop offset="100%" stop-color="#000000"/>
     </linearGradient>
   </defs>
 
@@ -32,6 +32,6 @@
     <circle cx="520" cy="170" r="2" opacity="0.35"><animate attributeName="cy" values="170;145;170" dur="4.8s" begin="2.6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.2;0.6;0.2" dur="4.8s" begin="2.6s" repeatCount="indefinite"/></circle>
   </g>
 
-  <text x="600" y="95" font-family="Cascadia Code, Consolas, monospace" font-size="46" font-weight="700" fill="#ffffff" text-anchor="middle">Vaibhav Sen</text>
-  <text x="600" y="132" font-family="Cascadia Code, Consolas, monospace" font-size="18" fill="#e6e6e6" text-anchor="middle">Indie Developer • Solo Builder</text>
+  <text x="600" y="105" font-family="Cascadia Code, Consolas, monospace" font-size="68" font-weight="700" fill="#ffffff" text-anchor="middle">Vaibhav Sen</text>
+  <text x="600" y="145" font-family="Cascadia Code, Consolas, monospace" font-size="22" fill="#e6e6e6" text-anchor="middle">Indie Developer • Solo Builder</text>
 </svg>
