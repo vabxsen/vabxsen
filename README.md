@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<img src="assets/xp-bar.svg" alt="Level 12, 5 of 25 XP to Level 13, based on 305 contributions this year"/>
+<img src="assets/xp-bar.svg?v=2" alt="Level 12, 5 of 25 XP to Level 13, based on 305 contributions this year"/>
 
 </div>
 
@@ -40,7 +40,7 @@
 
 <br/><br/>
 
-<img src="assets/terminal-boot.svg" alt="terminal boot sequence" width="500"/>
+<img src="assets/terminal-boot.svg?v=2" alt="terminal boot sequence" width="500"/>
 
 </div>
 
