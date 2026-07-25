@@ -5,4 +5,61 @@
 
   <text x="600" y="105" font-family="Cascadia Code, Consolas, monospace" font-size="68" font-weight="700" fill="#ffffff" text-anchor="middle">Vaibhav Sen</text>
   <text x="600" y="145" font-family="Cascadia Code, Consolas, monospace" font-size="22" fill="#e6e6e6" text-anchor="middle">Indie Developer • Solo Builder</text>
+
+  <g transform="translate(890,60)">
+    <animateTransform attributeName="transform" type="translate" values="890,60;890,54;890,60" dur="1.8s" repeatCount="indefinite" additive="replace"/>
+
+    <!-- speech bubble -->
+    <g>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.15;0.75;1" dur="2s" repeatCount="indefinite"/>
+      <rect x="34" y="-38" width="46" height="28" rx="10" fill="#f5f5f5"/>
+      <path d="M40,-10 L30,-2 L46,-10 Z" fill="#f5f5f5"/>
+      <text x="57" y="-19" font-family="Cascadia Code, Consolas, monospace" font-size="16" font-weight="700" fill="#0a0a0f" text-anchor="middle">Hi!</text>
+    </g>
+
+    <!-- legs -->
+    <line x1="0" y1="100" x2="-8" y2="128" stroke="#f0f0f0" stroke-width="6" stroke-linecap="round"/>
+    <line x1="-8" y1="128" x2="-11" y2="150" stroke="#f0f0f0" stroke-width="6" stroke-linecap="round"/>
+    <line x1="0" y1="100" x2="8" y2="128" stroke="#f0f0f0" stroke-width="6" stroke-linecap="round"/>
+    <line x1="8" y1="128" x2="11" y2="150" stroke="#f0f0f0" stroke-width="6" stroke-linecap="round"/>
+
+    <!-- pelvis -->
+    <path d="M-12,96 L12,96 L8,106 L-8,106 Z" fill="#f0f0f0"/>
+
+    <!-- ribcage -->
+    <rect x="-15" y="45" width="30" height="52" rx="10" fill="none" stroke="#f0f0f0" stroke-width="3"/>
+    <line x1="0" y1="45" x2="0" y2="97" stroke="#f0f0f0" stroke-width="2"/>
+    <line x1="-13" y1="55" x2="13" y2="55" stroke="#f0f0f0" stroke-width="2"/>
+    <line x1="-13" y1="65" x2="13" y2="65" stroke="#f0f0f0" stroke-width="2"/>
+    <line x1="-13" y1="75" x2="13" y2="75" stroke="#f0f0f0" stroke-width="2"/>
+    <line x1="-13" y1="85" x2="13" y2="85" stroke="#f0f0f0" stroke-width="2"/>
+
+    <!-- static left arm -->
+    <line x1="-15" y1="52" x2="-24" y2="72" stroke="#f0f0f0" stroke-width="6" stroke-linecap="round"/>
+    <line x1="-24" y1="72" x2="-20" y2="92" stroke="#f0f0f0" stroke-width="6" stroke-linecap="round"/>
+
+    <!-- waving right arm, rotates around shoulder -->
+    <g transform="translate(15,52)">
+      <g>
+        <animateTransform attributeName="transform" type="rotate" values="-15;30;-15" dur="0.9s" repeatCount="indefinite"/>
+        <line x1="0" y1="0" x2="16" y2="-16" stroke="#f0f0f0" stroke-width="6" stroke-linecap="round"/>
+        <line x1="16" y1="-16" x2="25" y2="-34" stroke="#f0f0f0" stroke-width="6" stroke-linecap="round"/>
+        <circle cx="25" cy="-34" r="5.5" fill="#f0f0f0"/>
+        <line x1="25" y1="-34" x2="31" y2="-42" stroke="#f0f0f0" stroke-width="2.5" stroke-linecap="round"/>
+        <line x1="25" y1="-34" x2="25" y2="-44" stroke="#f0f0f0" stroke-width="2.5" stroke-linecap="round"/>
+        <line x1="25" y1="-34" x2="19" y2="-42" stroke="#f0f0f0" stroke-width="2.5" stroke-linecap="round"/>
+      </g>
+    </g>
+
+    <!-- neck + skull -->
+    <line x1="0" y1="38" x2="0" y2="45" stroke="#f0f0f0" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="0" cy="18" r="21" fill="#f0f0f0"/>
+    <circle cx="-8" cy="15" r="4" fill="#0a0a0f"/>
+    <circle cx="8" cy="15" r="4" fill="#0a0a0f"/>
+    <path d="M-2,24 L2,24 L0,28 Z" fill="#0a0a0f"/>
+    <line x1="-9" y1="32" x2="9" y2="32" stroke="#0a0a0f" stroke-width="2"/>
+    <line x1="-6" y1="32" x2="-6" y2="35" stroke="#0a0a0f" stroke-width="1.5"/>
+    <line x1="0" y1="32" x2="0" y2="35" stroke="#0a0a0f" stroke-width="1.5"/>
+    <line x1="6" y1="32" x2="6" y2="35" stroke="#0a0a0f" stroke-width="1.5"/>
+  </g>
 </svg>
