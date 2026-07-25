@@ -67,13 +67,9 @@
     <path d="M-14,10 L-3,10 L-5,21 L-12,21 Z" fill="#0a0a0f"/>
     <path d="M14,10 L3,10 L5,21 L12,21 Z" fill="#0a0a0f"/>
 
-    <!-- glowing red pupils -->
-    <circle cx="-8" cy="15" r="2.2" fill="#ff2b2b">
-      <animate attributeName="opacity" values="0.55;1;0.55" dur="1.6s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="8" cy="15" r="2.2" fill="#ff2b2b">
-      <animate attributeName="opacity" values="0.55;1;0.55" dur="1.6s" repeatCount="indefinite"/>
-    </circle>
+    <!-- bright solid red pupils -->
+    <circle cx="-8" cy="15" r="2.2" fill="#ff0000"/>
+    <circle cx="8" cy="15" r="2.2" fill="#ff0000"/>
 
     <!-- nasal cavity -->
     <path d="M-4,23 L4,23 L0,31 Z" fill="#0a0a0f"/>
