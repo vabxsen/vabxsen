@@ -86,75 +86,68 @@
    </g>
   </g>
 
-  <g transform="translate(170,205) scale(1.6) scale(-1,1)">
+  <g transform="translate(140,345) scale(1.6) scale(-1,1)">
    <g>
-    <animateTransform attributeName="transform" type="rotate" values="-3;3;-3" dur="2.6s" repeatCount="indefinite"/>
-   <g>
-    <animateTransform attributeName="transform" type="translate" values="0,0;0,-7;0,0" dur="2.1s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="rotate" values="-1.5;1.5;-1.5" dur="3s" repeatCount="indefinite"/>
 
-    <!-- sparkles trailing the broom -->
-    <circle cx="-63" cy="10" r="1.6" fill="#f5f5f5"><animate attributeName="opacity" values="0;1;0" dur="1.4s" repeatCount="indefinite"/></circle>
-    <circle cx="-73" cy="26" r="1.2" fill="#f5f5f5"><animate attributeName="opacity" values="0;1;0" dur="1.7s" begin="0.4s" repeatCount="indefinite"/></circle>
-    <circle cx="-61" cy="40" r="1.4" fill="#f5f5f5"><animate attributeName="opacity" values="0;1;0" dur="1.5s" begin="0.8s" repeatCount="indefinite"/></circle>
+    <!-- sparkles -->
+    <circle cx="24" cy="-120" r="1.4" fill="#f5f5f5"><animate attributeName="opacity" values="0;1;0" dur="1.6s" repeatCount="indefinite"/></circle>
+    <circle cx="30" cy="-45" r="1.2" fill="#f5f5f5"><animate attributeName="opacity" values="0;1;0" dur="1.8s" begin="0.5s" repeatCount="indefinite"/></circle>
 
-    <!-- broom bristles -->
+    <!-- broom, standing beside her -->
+    <line x1="17" y1="-40" x2="22" y2="6" stroke="#8b5a2b" stroke-width="4" stroke-linecap="round"/>
     <g stroke="#c9a24b" stroke-width="2" stroke-linecap="round">
-      <line x1="-45" y1="26" x2="-57" y2="18"/>
-      <line x1="-45" y1="26" x2="-59" y2="26"/>
-      <line x1="-45" y1="26" x2="-57" y2="34"/>
-      <line x1="-45" y1="26" x2="-53" y2="40"/>
+      <line x1="22" y1="6" x2="16" y2="14"/>
+      <line x1="22" y1="6" x2="22" y2="17"/>
+      <line x1="22" y1="6" x2="28" y2="14"/>
+      <line x1="22" y1="6" x2="25" y2="18"/>
     </g>
-    <!-- broom handle -->
-    <line x1="-45" y1="26" x2="45" y2="-6" stroke="#8b5a2b" stroke-width="4" stroke-linecap="round"/>
 
-    <!-- tattered robe -->
-    <path d="M-14,0 L14,0 L23,30 L18,42 L12,32 L6,44 L0,31 L-6,44 L-12,32 L-18,42 L-23,30 Z" fill="#3d3648"/>
+    <!-- curvy legs with heels -->
+    <line x1="-7" y1="-14" x2="-9" y2="0" stroke="#5c7a45" stroke-width="6" stroke-linecap="round"/>
+    <path d="M-9,0 L-14,2 L-9,3 Z" fill="#1c1226"/>
+    <line x1="5" y1="-14" x2="8" y2="0" stroke="#5c7a45" stroke-width="6" stroke-linecap="round"/>
+    <path d="M8,0 L13,2 L8,3 Z" fill="#1c1226"/>
 
-    <!-- arms with clawed hands holding broom -->
-    <line x1="-12" y1="4" x2="-23" y2="4" stroke="#5c7a45" stroke-width="5" stroke-linecap="round"/>
-    <path d="M-23,4 L-29,0 M-23,4 L-30,5 M-23,4 L-27,10" stroke="#5c7a45" stroke-width="2" stroke-linecap="round"/>
-    <line x1="12" y1="4" x2="33" y2="-2" stroke="#5c7a45" stroke-width="5" stroke-linecap="round"/>
-    <path d="M33,-2 L39,-5 M33,-2 L40,-1 M33,-2 L37,4" stroke="#5c7a45" stroke-width="2" stroke-linecap="round"/>
+    <!-- fitted hourglass dress -->
+    <path d="M-12,-68 C-16,-60 -8,-56 -6,-52 C-14,-46 -16,-38 -13,-32 C-16,-26 -17,-18 -15,-14 L15,-14 C17,-18 16,-26 13,-32 C16,-38 14,-46 6,-52 C8,-56 16,-60 12,-68 Z" fill="#4a2a5c"/>
+
+    <!-- arms: one on hip, one holding broom -->
+    <line x1="-12" y1="-60" x2="-19" y2="-50" stroke="#5c7a45" stroke-width="5" stroke-linecap="round"/>
+    <line x1="-19" y1="-50" x2="-11" y2="-44" stroke="#5c7a45" stroke-width="5" stroke-linecap="round"/>
+    <line x1="12" y1="-60" x2="17" y2="-40" stroke="#5c7a45" stroke-width="5" stroke-linecap="round"/>
 
     <!-- neck -->
-    <line x1="0" y1="-4" x2="0" y2="0" stroke="#5c7a45" stroke-width="4" stroke-linecap="round"/>
+    <line x1="0" y1="-72" x2="0" y2="-68" stroke="#5c7a45" stroke-width="4" stroke-linecap="round"/>
 
-    <!-- wild scraggly hair -->
-    <path d="M-13,-26 Q-23,-16 -15,-2" stroke="#141014" stroke-width="3" fill="none" stroke-linecap="round"/>
-    <path d="M-11,-30 Q-19,-24 -18,-14" stroke="#141014" stroke-width="2.5" fill="none" stroke-linecap="round"/>
-    <path d="M11,-28 Q18,-22 15,-14" stroke="#141014" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+    <!-- flowing hair -->
+    <path d="M-12,-88 Q-22,-70 -18,-45" stroke="#141014" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <path d="M-10,-92 Q-20,-78 -19,-58" stroke="#141014" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+    <path d="M10,-90 Q17,-76 14,-56" stroke="#141014" stroke-width="2.5" fill="none" stroke-linecap="round"/>
 
-    <!-- gaunt green face -->
-    <path d="M-13,-30 Q-15,-14 -6,-4 Q0,0 0,0 Q0,0 6,-4 Q15,-14 13,-30 Q0,-40 -13,-30 Z" fill="#5c7a45"/>
+    <!-- softened face -->
+    <path d="M-12,-92 Q-14,-78 -6,-70 Q0,-66 0,-66 Q0,-66 6,-70 Q14,-78 12,-92 Q0,-100 -12,-92 Z" fill="#5c7a45"/>
 
-    <!-- furrowed brow -->
-    <path d="M-12,-27 Q-7,-31 -2,-27" stroke="#1c1c1c" stroke-width="1.6" fill="none" stroke-linecap="round"/>
-    <path d="M2,-28 Q7,-32 12,-28" stroke="#1c1c1c" stroke-width="1.6" fill="none" stroke-linecap="round"/>
+    <!-- elegant almond glowing eyes with lashes -->
+    <path d="M-9,-84 Q-6,-86.5 -3,-84 Q-6,-81.5 -9,-84 Z" fill="#141014"/>
+    <path d="M3,-85 Q6,-87.5 9,-85 Q6,-82.5 3,-85 Z" fill="#141014"/>
+    <circle cx="-6" cy="-84" r="1.1" fill="#c3ff3d"><animate attributeName="opacity" values="0.6;1;0.6" dur="1.6s" repeatCount="indefinite"/></circle>
+    <circle cx="6" cy="-85" r="1.1" fill="#c3ff3d"><animate attributeName="opacity" values="0.6;1;0.6" dur="1.6s" repeatCount="indefinite"/></circle>
+    <path d="M-9,-84 L-11.5,-86" stroke="#141014" stroke-width="1" stroke-linecap="round"/>
+    <path d="M9,-85 L11.5,-87" stroke="#141014" stroke-width="1" stroke-linecap="round"/>
 
-    <!-- hollow glowing eye slits -->
-    <path d="M-11,-25 L-3,-23 L-9,-20 Z" fill="#141014"/>
-    <path d="M11,-26 L3,-24 L9,-21 Z" fill="#141014"/>
-    <circle cx="-7" cy="-22.5" r="1.4" fill="#c3ff3d">
-      <animate attributeName="opacity" values="0.5;1;0.5" dur="1.3s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="7" cy="-23.5" r="1.4" fill="#c3ff3d">
-      <animate attributeName="opacity" values="0.5;1;0.5" dur="1.3s" repeatCount="indefinite"/>
-    </circle>
+    <!-- long elegant nose with beauty mark -->
+    <path d="M8,-83 Q22,-78 19,-70 Q15,-75 7,-76 Z" fill="#5c7a45"/>
+    <circle cx="18" cy="-72" r="1.3" fill="#2b3d20"/>
 
-    <!-- long hooked nose with warts -->
-    <path d="M8,-20 Q28,-14 25,-2 Q20,-10 6,-12 Z" fill="#5c7a45"/>
-    <circle cx="24" cy="-4" r="1.8" fill="#3f5630"/>
-    <circle cx="-9" cy="-6" r="1.4" fill="#3f5630"/>
+    <!-- lips -->
+    <path d="M-5,-70 Q0,-67.5 5,-71 Q0,-69 -5,-70 Z" fill="#7a1f3d"/>
 
-    <!-- crooked jagged grin -->
-    <path d="M-11,-10 L-8,-4 L-5,-11 L-2,-3 L1,-10 L4,-2 L7,-9 L10,-5" stroke="#141014" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-
-    <!-- crooked witch hat -->
-    <ellipse cx="0" cy="-34" rx="20" ry="5" fill="#0f0916"/>
-    <path d="M-13,-34 L6,-80 L13,-33 Z" fill="#1c1226"/>
-    <path d="M6,-80 L1,-73 L9,-71 Z" fill="#1c1226"/>
-    <rect x="-14" y="-40" width="24" height="6" fill="#3a1a52"/>
-   </g>
+    <!-- witch hat -->
+    <ellipse cx="0" cy="-95" rx="20" ry="5" fill="#0f0916"/>
+    <path d="M-13,-95 L2,-140 L13,-94 Z" fill="#1c1226"/>
+    <path d="M2,-140 L-3,-133 L5,-131 Z" fill="#1c1226"/>
+    <rect x="-14" y="-101" width="24" height="6" fill="#3a1a52"/>
    </g>
   </g>
 </svg>
