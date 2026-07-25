@@ -3,58 +3,162 @@
 
   <path d="M0,358 C150,338 350,380 600,358 C850,336 1050,380 1200,358 L1200,380 L0,380 Z" fill="#ffffff" opacity="0.06"/>
 
-  <!-- meteors falling diagonally right to left in a straight line -->
+  <!-- meteors falling diagonally right to left, shattering when they cross the text -->
   <g opacity="0.95">
     <g transform="translate(1240,10)">
       <animateTransform attributeName="transform" type="translate" values="1240,10;-40,370" dur="9s" begin="0s" repeatCount="indefinite"/>
       <g transform="rotate(74.3)">
         <g>
-          <animateTransform attributeName="transform" type="scale" values="1;1.15;1" dur="0.6s" repeatCount="indefinite"/>
-          <path d="M-3,-2 Q-7,-12 -3,-24 Q0,-29 3,-24 Q7,-12 3,-2 Z" fill="#ff7a1a"/>
-          <path d="M-1.5,-2 Q-3.5,-9 -1,-17 Q0,-20 1,-17 Q3.5,-9 1.5,-2 Z" fill="#ffd23f"/>
+          <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.3164;0.3204;1" dur="9s" begin="0s" repeatCount="indefinite"/>
+          <g>
+            <animateTransform attributeName="transform" type="scale" values="1;1.15;1" dur="0.6s" repeatCount="indefinite"/>
+            <path d="M-3,-2 Q-7,-12 -3,-24 Q0,-29 3,-24 Q7,-12 3,-2 Z" fill="#ff7a1a"/>
+            <path d="M-1.5,-2 Q-3.5,-9 -1,-17 Q0,-20 1,-17 Q3.5,-9 1.5,-2 Z" fill="#ffd23f"/>
+          </g>
+          <path d="M-4,-3 L-1,-6 L4,-5 L5,0 L2,4 L-3,3 Z" fill="#7a7a7a"/>
+          <circle cx="-1" cy="-1" r="1" fill="#4a4a4a"/>
+          <circle cx="2" cy="1" r="0.7" fill="#4a4a4a"/>
         </g>
-        <path d="M-4,-3 L-1,-6 L4,-5 L5,0 L2,4 L-3,3 Z" fill="#7a7a7a"/>
-        <circle cx="-1" cy="-1" r="1" fill="#4a4a4a"/>
-        <circle cx="2" cy="1" r="0.7" fill="#4a4a4a"/>
+        <g>
+          <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.3164;0.3204;0.4364;1" dur="9s" begin="0s" repeatCount="indefinite"/>
+          <circle cx="0" cy="0" r="5" fill="#fff3c4"/>
+        </g>
+        <g>
+          <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.3164;0.3204;0.4364;0.4404;1" dur="9s" begin="0s" repeatCount="indefinite"/>
+          <g transform="translate(0,0)">
+            <animateTransform attributeName="transform" type="translate" values="0,0;0,0;-3,-2" keyTimes="0;0.3164;0.4364" dur="9s" begin="0s" repeatCount="indefinite" fill="freeze"/>
+            <path d="M-1.6,-1.2 L1.4,-0.6 L0.4,1.6 Z" fill="#7a7a7a" transform="rotate(30)"/>
+          </g>
+          <g transform="translate(0,0)">
+            <animateTransform attributeName="transform" type="translate" values="0,0;0,0;3,-2" keyTimes="0;0.3164;0.4364" dur="9s" begin="0s" repeatCount="indefinite" fill="freeze"/>
+            <path d="M-1.6,-1.2 L1.4,-0.6 L0.4,1.6 Z" fill="#7a7a7a" transform="rotate(-25)"/>
+          </g>
+          <g transform="translate(0,0)">
+            <animateTransform attributeName="transform" type="translate" values="0,0;0,0;-3,2" keyTimes="0;0.3164;0.4364" dur="9s" begin="0s" repeatCount="indefinite" fill="freeze"/>
+            <path d="M-1.6,-1.2 L1.4,-0.6 L0.4,1.6 Z" fill="#7a7a7a" transform="rotate(-35)"/>
+          </g>
+          <g transform="translate(0,0)">
+            <animateTransform attributeName="transform" type="translate" values="0,0;0,0;3,2" keyTimes="0;0.3164;0.4364" dur="9s" begin="0s" repeatCount="indefinite" fill="freeze"/>
+            <path d="M-1.6,-1.2 L1.4,-0.6 L0.4,1.6 Z" fill="#7a7a7a" transform="rotate(25)"/>
+          </g>
+        </g>
       </g>
     </g>
     <g transform="translate(1240,40)">
       <animateTransform attributeName="transform" type="translate" values="1240,40;-40,340" dur="11s" begin="2.5s" repeatCount="indefinite"/>
       <g transform="rotate(76.8)">
         <g>
-          <animateTransform attributeName="transform" type="scale" values="1;1.15;1" dur="0.6s" repeatCount="indefinite"/>
-          <path d="M-3,-2 Q-7,-12 -3,-24 Q0,-29 3,-24 Q7,-12 3,-2 Z" fill="#ff7a1a"/>
-          <path d="M-1.5,-2 Q-3.5,-9 -1,-17 Q0,-20 1,-17 Q3.5,-9 1.5,-2 Z" fill="#ffd23f"/>
+          <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.3164;0.3204;1" dur="11s" begin="2.5s" repeatCount="indefinite"/>
+          <g>
+            <animateTransform attributeName="transform" type="scale" values="1;1.15;1" dur="0.6s" repeatCount="indefinite"/>
+            <path d="M-3,-2 Q-7,-12 -3,-24 Q0,-29 3,-24 Q7,-12 3,-2 Z" fill="#ff7a1a"/>
+            <path d="M-1.5,-2 Q-3.5,-9 -1,-17 Q0,-20 1,-17 Q3.5,-9 1.5,-2 Z" fill="#ffd23f"/>
+          </g>
+          <path d="M-4,-3 L-1,-6 L4,-5 L5,0 L2,4 L-3,3 Z" fill="#8a7a6a"/>
+          <circle cx="-1" cy="-1" r="1" fill="#544842"/>
+          <circle cx="2" cy="1" r="0.7" fill="#544842"/>
         </g>
-        <path d="M-4,-3 L-1,-6 L4,-5 L5,0 L2,4 L-3,3 Z" fill="#8a7a6a"/>
-        <circle cx="-1" cy="-1" r="1" fill="#544842"/>
-        <circle cx="2" cy="1" r="0.7" fill="#544842"/>
+        <g>
+          <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.3164;0.3204;0.4364;1" dur="11s" begin="2.5s" repeatCount="indefinite"/>
+          <circle cx="0" cy="0" r="5" fill="#fff3c4"/>
+        </g>
+        <g>
+          <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.3164;0.3204;0.4364;0.4404;1" dur="11s" begin="2.5s" repeatCount="indefinite"/>
+          <g transform="translate(0,0)">
+            <animateTransform attributeName="transform" type="translate" values="0,0;0,0;-3,-2" keyTimes="0;0.3164;0.4364" dur="11s" begin="2.5s" repeatCount="indefinite" fill="freeze"/>
+            <path d="M-1.6,-1.2 L1.4,-0.6 L0.4,1.6 Z" fill="#8a7a6a" transform="rotate(30)"/>
+          </g>
+          <g transform="translate(0,0)">
+            <animateTransform attributeName="transform" type="translate" values="0,0;0,0;3,-2" keyTimes="0;0.3164;0.4364" dur="11s" begin="2.5s" repeatCount="indefinite" fill="freeze"/>
+            <path d="M-1.6,-1.2 L1.4,-0.6 L0.4,1.6 Z" fill="#8a7a6a" transform="rotate(-25)"/>
+          </g>
+          <g transform="translate(0,0)">
+            <animateTransform attributeName="transform" type="translate" values="0,0;0,0;-3,2" keyTimes="0;0.3164;0.4364" dur="11s" begin="2.5s" repeatCount="indefinite" fill="freeze"/>
+            <path d="M-1.6,-1.2 L1.4,-0.6 L0.4,1.6 Z" fill="#8a7a6a" transform="rotate(-35)"/>
+          </g>
+          <g transform="translate(0,0)">
+            <animateTransform attributeName="transform" type="translate" values="0,0;0,0;3,2" keyTimes="0;0.3164;0.4364" dur="11s" begin="2.5s" repeatCount="indefinite" fill="freeze"/>
+            <path d="M-1.6,-1.2 L1.4,-0.6 L0.4,1.6 Z" fill="#8a7a6a" transform="rotate(25)"/>
+          </g>
+        </g>
       </g>
     </g>
     <g transform="translate(1240,-10)">
       <animateTransform attributeName="transform" type="translate" values="1240,-10;-40,300" dur="8s" begin="5s" repeatCount="indefinite"/>
       <g transform="rotate(76.4)">
         <g>
-          <animateTransform attributeName="transform" type="scale" values="1;1.15;1" dur="0.6s" repeatCount="indefinite"/>
-          <path d="M-3,-2 Q-7,-12 -3,-24 Q0,-29 3,-24 Q7,-12 3,-2 Z" fill="#ff7a1a"/>
-          <path d="M-1.5,-2 Q-3.5,-9 -1,-17 Q0,-20 1,-17 Q3.5,-9 1.5,-2 Z" fill="#ffd23f"/>
+          <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.371;0.375;1" dur="8s" begin="5s" repeatCount="indefinite"/>
+          <g>
+            <animateTransform attributeName="transform" type="scale" values="1;1.15;1" dur="0.6s" repeatCount="indefinite"/>
+            <path d="M-3,-2 Q-7,-12 -3,-24 Q0,-29 3,-24 Q7,-12 3,-2 Z" fill="#ff7a1a"/>
+            <path d="M-1.5,-2 Q-3.5,-9 -1,-17 Q0,-20 1,-17 Q3.5,-9 1.5,-2 Z" fill="#ffd23f"/>
+          </g>
+          <path d="M-4,-3 L-1,-6 L4,-5 L5,0 L2,4 L-3,3 Z" fill="#6b6b6b"/>
+          <circle cx="-1" cy="-1" r="1" fill="#3a3a3a"/>
+          <circle cx="2" cy="1" r="0.7" fill="#3a3a3a"/>
         </g>
-        <path d="M-4,-3 L-1,-6 L4,-5 L5,0 L2,4 L-3,3 Z" fill="#6b6b6b"/>
-        <circle cx="-1" cy="-1" r="1" fill="#3a3a3a"/>
-        <circle cx="2" cy="1" r="0.7" fill="#3a3a3a"/>
+        <g>
+          <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.371;0.375;0.491;1" dur="8s" begin="5s" repeatCount="indefinite"/>
+          <circle cx="0" cy="0" r="5" fill="#fff3c4"/>
+        </g>
+        <g>
+          <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.371;0.375;0.491;0.495;1" dur="8s" begin="5s" repeatCount="indefinite"/>
+          <g transform="translate(0,0)">
+            <animateTransform attributeName="transform" type="translate" values="0,0;0,0;-3,-2" keyTimes="0;0.371;0.491" dur="8s" begin="5s" repeatCount="indefinite" fill="freeze"/>
+            <path d="M-1.6,-1.2 L1.4,-0.6 L0.4,1.6 Z" fill="#6b6b6b" transform="rotate(30)"/>
+          </g>
+          <g transform="translate(0,0)">
+            <animateTransform attributeName="transform" type="translate" values="0,0;0,0;3,-2" keyTimes="0;0.371;0.491" dur="8s" begin="5s" repeatCount="indefinite" fill="freeze"/>
+            <path d="M-1.6,-1.2 L1.4,-0.6 L0.4,1.6 Z" fill="#6b6b6b" transform="rotate(-25)"/>
+          </g>
+          <g transform="translate(0,0)">
+            <animateTransform attributeName="transform" type="translate" values="0,0;0,0;-3,2" keyTimes="0;0.371;0.491" dur="8s" begin="5s" repeatCount="indefinite" fill="freeze"/>
+            <path d="M-1.6,-1.2 L1.4,-0.6 L0.4,1.6 Z" fill="#6b6b6b" transform="rotate(-35)"/>
+          </g>
+          <g transform="translate(0,0)">
+            <animateTransform attributeName="transform" type="translate" values="0,0;0,0;3,2" keyTimes="0;0.371;0.491" dur="8s" begin="5s" repeatCount="indefinite" fill="freeze"/>
+            <path d="M-1.6,-1.2 L1.4,-0.6 L0.4,1.6 Z" fill="#6b6b6b" transform="rotate(25)"/>
+          </g>
+        </g>
       </g>
     </g>
     <g transform="translate(1240,60)">
       <animateTransform attributeName="transform" type="translate" values="1240,60;-40,380" dur="10s" begin="7s" repeatCount="indefinite"/>
       <g transform="rotate(76.0)">
         <g>
-          <animateTransform attributeName="transform" type="scale" values="1;1.15;1" dur="0.6s" repeatCount="indefinite"/>
-          <path d="M-3,-2 Q-7,-12 -3,-24 Q0,-29 3,-24 Q7,-12 3,-2 Z" fill="#ff7a1a"/>
-          <path d="M-1.5,-2 Q-3.5,-9 -1,-17 Q0,-20 1,-17 Q3.5,-9 1.5,-2 Z" fill="#ffd23f"/>
+          <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.3164;0.3204;1" dur="10s" begin="7s" repeatCount="indefinite"/>
+          <g>
+            <animateTransform attributeName="transform" type="scale" values="1;1.15;1" dur="0.6s" repeatCount="indefinite"/>
+            <path d="M-3,-2 Q-7,-12 -3,-24 Q0,-29 3,-24 Q7,-12 3,-2 Z" fill="#ff7a1a"/>
+            <path d="M-1.5,-2 Q-3.5,-9 -1,-17 Q0,-20 1,-17 Q3.5,-9 1.5,-2 Z" fill="#ffd23f"/>
+          </g>
+          <path d="M-4,-3 L-1,-6 L4,-5 L5,0 L2,4 L-3,3 Z" fill="#7a7a7a"/>
+          <circle cx="-1" cy="-1" r="1" fill="#4a4a4a"/>
+          <circle cx="2" cy="1" r="0.7" fill="#4a4a4a"/>
         </g>
-        <path d="M-4,-3 L-1,-6 L4,-5 L5,0 L2,4 L-3,3 Z" fill="#7a7a7a"/>
-        <circle cx="-1" cy="-1" r="1" fill="#4a4a4a"/>
-        <circle cx="2" cy="1" r="0.7" fill="#4a4a4a"/>
+        <g>
+          <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.3164;0.3204;0.4364;1" dur="10s" begin="7s" repeatCount="indefinite"/>
+          <circle cx="0" cy="0" r="5" fill="#fff3c4"/>
+        </g>
+        <g>
+          <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.3164;0.3204;0.4364;0.4404;1" dur="10s" begin="7s" repeatCount="indefinite"/>
+          <g transform="translate(0,0)">
+            <animateTransform attributeName="transform" type="translate" values="0,0;0,0;-3,-2" keyTimes="0;0.3164;0.4364" dur="10s" begin="7s" repeatCount="indefinite" fill="freeze"/>
+            <path d="M-1.6,-1.2 L1.4,-0.6 L0.4,1.6 Z" fill="#7a7a7a" transform="rotate(30)"/>
+          </g>
+          <g transform="translate(0,0)">
+            <animateTransform attributeName="transform" type="translate" values="0,0;0,0;3,-2" keyTimes="0;0.3164;0.4364" dur="10s" begin="7s" repeatCount="indefinite" fill="freeze"/>
+            <path d="M-1.6,-1.2 L1.4,-0.6 L0.4,1.6 Z" fill="#7a7a7a" transform="rotate(-25)"/>
+          </g>
+          <g transform="translate(0,0)">
+            <animateTransform attributeName="transform" type="translate" values="0,0;0,0;-3,2" keyTimes="0;0.3164;0.4364" dur="10s" begin="7s" repeatCount="indefinite" fill="freeze"/>
+            <path d="M-1.6,-1.2 L1.4,-0.6 L0.4,1.6 Z" fill="#7a7a7a" transform="rotate(-35)"/>
+          </g>
+          <g transform="translate(0,0)">
+            <animateTransform attributeName="transform" type="translate" values="0,0;0,0;3,2" keyTimes="0;0.3164;0.4364" dur="10s" begin="7s" repeatCount="indefinite" fill="freeze"/>
+            <path d="M-1.6,-1.2 L1.4,-0.6 L0.4,1.6 Z" fill="#7a7a7a" transform="rotate(25)"/>
+          </g>
+        </g>
       </g>
     </g>
   </g>
