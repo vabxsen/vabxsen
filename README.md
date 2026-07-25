@@ -67,6 +67,13 @@
 
 </div>
 
+<br/>
+
+<div align="center">
+
+<img src="assets/ghost-wanderer.svg" alt="wandering ghost" width="100%"/>
+
+</div>
 
 <br/>
 
