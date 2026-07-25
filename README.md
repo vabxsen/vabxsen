@@ -22,13 +22,15 @@
 
 </div>
 
+<img src="assets/blob-buddy.gif" width="140" align="right"/>
+
 - 🛠️ Building small, sharp apps solo — currently deep in **Slip** 📱, **Doclee** 📄, **Nexrig** ⚙️, **PricePilot** 💸 and **Dailynx** 🗓️
 - 🐍 Started with Python automation & CV projects (👁️ drowsiness detection, 🔳 QR tools, 🔊 TTS)
 - 🌐 Now mostly living in TypeScript/React + Firebase land
 - 📚 Learning in public — check out my [Python roadmap repo](https://github.com/vabxsen/Advanced-Python-Roadmap-by-vabxsen) 🗺️
 - ☕ Fueled by late nights and too much coffee
 
-<br/>
+<br clear="both"/>
 
 ## Tech Stack
 
