@@ -31,15 +31,15 @@
 
   <rect x="24" y="62" width="652" height="14" rx="7" fill="#1c1c28"/>
 
-  <!-- soft glow pulsing behind the filled portion -->
-  <rect x="24" y="62" width="0" height="14" rx="7" fill="#8b5cf6" opacity="0.5" filter="url(#glow)">
-    <animate attributeName="width" from="0" to="130" dur="1.1s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+  <!-- soft glow pulsing behind the filled portion (visible by default; animates in when supported) -->
+  <rect x="24" y="62" width="130" height="14" rx="7" fill="#8b5cf6" opacity="0.5" filter="url(#glow)">
+    <animate attributeName="width" from="0" to="130" dur="1.1s" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
     <animate attributeName="opacity" values="0.35;0.6;0.35" dur="2.4s" begin="1.1s" repeatCount="indefinite"/>
   </rect>
 
-  <!-- fill bar, animates in on load -->
-  <rect x="24" y="62" width="0" height="14" rx="7" fill="url(#fill)">
-    <animate attributeName="width" from="0" to="130" dur="1.1s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+  <!-- fill bar, visible by default; animates in on load when supported -->
+  <rect x="24" y="62" width="130" height="14" rx="7" fill="url(#fill)">
+    <animate attributeName="width" from="0" to="130" dur="1.1s" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
   </rect>
 
   <!-- shine sweeping across the filled portion, looping -->

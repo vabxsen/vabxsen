@@ -1,18 +1,18 @@
 <svg width="700" height="280" viewBox="0 0 700 280" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <clipPath id="clipCmd1">
-      <rect x="20" y="46" width="0" height="24">
-        <animate attributeName="width" from="0" to="95" dur="0.6s" begin="0.3s" fill="freeze"/>
+      <rect x="20" y="46" width="95" height="24">
+        <animate attributeName="width" from="0" to="95" dur="0.6s" begin="0.3s"/>
       </rect>
     </clipPath>
     <clipPath id="clipCmd2">
-      <rect x="20" y="108" width="0" height="24">
-        <animate attributeName="width" from="0" to="205" dur="1s" begin="1.45s" fill="freeze"/>
+      <rect x="20" y="108" width="205" height="24">
+        <animate attributeName="width" from="0" to="205" dur="1s" begin="1.45s"/>
       </rect>
     </clipPath>
     <clipPath id="clipCmd3">
-      <rect x="20" y="170" width="0" height="24">
-        <animate attributeName="width" from="0" to="255" dur="1.1s" begin="3.2s" fill="freeze"/>
+      <rect x="20" y="170" width="255" height="24">
+        <animate attributeName="width" from="0" to="255" dur="1.1s" begin="3.2s"/>
       </rect>
     </clipPath>
   </defs>
@@ -29,15 +29,15 @@
   <circle cx="61" cy="17.5" r="6" fill="#27c93f"/>
   <text x="350" y="22" font-family="Consolas,'Cascadia Code',monospace" font-size="12" fill="#6b6b7a" text-anchor="middle">vaibhav@dev:~</text>
 
-  <!-- line 1: command -->
+  <!-- line 1: command (visible by default; typewriter-reveals in when supported) -->
   <g clip-path="url(#clipCmd1)">
     <text x="20" y="64" font-family="Consolas,'Cascadia Code',monospace" font-size="15" font-weight="600"><tspan fill="#22d3ee">$ </tspan><tspan fill="#e6e6e6">whoami</tspan></text>
   </g>
 
   <!-- line 2: output -->
-  <text x="20" y="90" font-family="Consolas,'Cascadia Code',monospace" font-size="14" fill="#b8aee0" opacity="0">
+  <text x="20" y="90" font-family="Consolas,'Cascadia Code',monospace" font-size="14" fill="#b8aee0">
     vaibhav_sen — solo indie dev
-    <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="1.05s" fill="freeze"/>
+    <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="1.05s"/>
   </text>
 
   <!-- line 3: command -->
@@ -46,9 +46,9 @@
   </g>
 
   <!-- line 4: output -->
-  <text x="20" y="152" font-family="Consolas,'Cascadia Code',monospace" font-size="14" fill="#b8aee0" opacity="0">
+  <text x="20" y="152" font-family="Consolas,'Cascadia Code',monospace" font-size="14" fill="#b8aee0">
     ship fast, sleep less, coffee more
-    <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="2.6s" fill="freeze"/>
+    <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="2.6s"/>
   </text>
 
   <!-- line 5: command -->
@@ -57,17 +57,14 @@
   </g>
 
   <!-- line 6: output -->
-  <text x="20" y="214" font-family="Consolas,'Cascadia Code',monospace" font-size="14" fill="#b8aee0" opacity="0">
+  <text x="20" y="214" font-family="Consolas,'Cascadia Code',monospace" font-size="14" fill="#b8aee0">
     Slip · Doclee · Nexrig · PricePilot · Dailynx ✅
-    <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="4.45s" fill="freeze"/>
+    <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="4.45s"/>
   </text>
 
   <!-- line 7: waiting prompt + blinking cursor -->
-  <text x="20" y="248" font-family="Consolas,'Cascadia Code',monospace" font-size="15" font-weight="600" fill="#22d3ee" opacity="0">
-    $
-    <animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="4.65s" fill="freeze"/>
-  </text>
-  <rect x="38" y="235" width="9" height="16" fill="#22d3ee" opacity="0">
-    <animate attributeName="opacity" values="1;0;1" dur="1s" begin="4.65s" repeatCount="indefinite"/>
+  <text x="20" y="248" font-family="Consolas,'Cascadia Code',monospace" font-size="15" font-weight="600" fill="#22d3ee">$</text>
+  <rect x="38" y="235" width="9" height="16" fill="#22d3ee">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
   </rect>
 </svg>
