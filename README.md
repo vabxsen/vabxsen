@@ -71,13 +71,6 @@
 
 </div>
 
-<br/>
-
-<div align="center">
-
-<img src="assets/spotify-player.gif?v=4" alt="Now playing" width="500"/>
-
-</div>
 
 <br/>
 
