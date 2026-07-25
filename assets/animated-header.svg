@@ -1,13 +1,14 @@
-<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1200" height="320" fill="#000000"/>
+<svg width="1200" height="380" viewBox="0 0 1200 380" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="380" fill="#000000"/>
 
-  <path d="M0,300 C150,280 350,322 600,300 C850,278 1050,322 1200,300 L1200,320 L0,320 Z" fill="#ffffff" opacity="0.06"/>
+  <path d="M0,358 C150,338 350,380 600,358 C850,336 1050,380 1200,358 L1200,380 L0,380 Z" fill="#ffffff" opacity="0.06"/>
 
-  <text x="600" y="105" font-family="Cascadia Code, Consolas, monospace" font-size="68" font-weight="700" fill="#ffffff" text-anchor="middle">Vaibhav Sen</text>
-  <text x="600" y="145" font-family="Cascadia Code, Consolas, monospace" font-size="22" fill="#e6e6e6" text-anchor="middle">Indie Developer • Solo Builder</text>
+  <text x="600" y="175" font-family="Cascadia Code, Consolas, monospace" font-size="76" font-weight="700" fill="#ffffff" text-anchor="middle">Vaibhav Sen</text>
+  <text x="600" y="218" font-family="Cascadia Code, Consolas, monospace" font-size="24" fill="#e6e6e6" text-anchor="middle">Indie Developer • Solo Builder</text>
 
-  <g transform="translate(1100,60)">
-    <animateTransform attributeName="transform" type="translate" values="1100,60;1100,54;1100,60" dur="1.8s" repeatCount="indefinite" additive="replace"/>
+  <g transform="translate(1080,155) scale(1.3)">
+   <g>
+    <animateTransform attributeName="transform" type="translate" values="0,0;0,-5;0,0" dur="1.8s" repeatCount="indefinite"/>
 
     <!-- speech bubble -->
     <g>
@@ -79,5 +80,6 @@
 
     <!-- jagged toothy grin -->
     <path d="M-13,33 L-10,39 L-7,33 L-4,39 L-1,33 L2,39 L5,33 L8,39 L11,33 L13,37" stroke="#0a0a0f" stroke-width="2.2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+   </g>
   </g>
 </svg>
