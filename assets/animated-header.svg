@@ -109,6 +109,10 @@
     <line x1="5" y1="-14" x2="8" y2="0" stroke="#5c7a45" stroke-width="6" stroke-linecap="round"/>
     <path d="M8,0 L13,2 L8,3 Z" fill="#1c1226"/>
 
+    <!-- flowing cape -->
+    <path d="M-8,-66 C-22,-58 -38,-40 -42,-12 C-44,6 -35,16 -25,8 C-19,2 -17,-10 -15,-24 C-13,-40 -10,-54 -8,-66 Z" fill="#241033"/>
+    <path d="M-10,-60 C-20,-50 -30,-32 -32,-10 C-33,2 -27,8 -21,2 C-17,-4 -15,-14 -13,-26 C-12,-38 -11,-50 -10,-60 Z" fill="#5c1f38"/>
+
     <!-- fitted hourglass dress -->
     <path d="M-12,-68 C-16,-60 -8,-56 -6,-52 C-14,-46 -16,-38 -13,-32 C-16,-26 -17,-18 -15,-14 L15,-14 C17,-18 16,-26 13,-32 C16,-38 14,-46 6,-52 C8,-56 16,-60 12,-68 Z" fill="#4a2a5c"/>
 
@@ -121,9 +125,10 @@
     <line x1="0" y1="-72" x2="0" y2="-68" stroke="#5c7a45" stroke-width="4" stroke-linecap="round"/>
 
     <!-- flowing hair -->
-    <path d="M-12,-88 Q-22,-70 -18,-45" stroke="#141014" stroke-width="3" fill="none" stroke-linecap="round"/>
-    <path d="M-10,-92 Q-20,-78 -19,-58" stroke="#141014" stroke-width="2.5" fill="none" stroke-linecap="round"/>
-    <path d="M10,-90 Q17,-76 14,-56" stroke="#141014" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+    <path d="M-12,-88 Q-25,-68 -22,-38 Q-21,-25 -17,-16" stroke="#141014" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <path d="M-10,-92 Q-22,-76 -23,-50 Q-23,-34 -19,-22" stroke="#141014" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+    <path d="M10,-90 Q19,-74 16,-50 Q15,-36 12,-24" stroke="#141014" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+    <path d="M6,-93 Q13,-82 12,-64" stroke="#141014" stroke-width="2" fill="none" stroke-linecap="round"/>
 
     <!-- softened face -->
     <path d="M-12,-92 Q-14,-78 -6,-70 Q0,-66 0,-66 Q0,-66 6,-70 Q14,-78 12,-92 Q0,-100 -12,-92 Z" fill="#5c7a45"/>
@@ -144,10 +149,10 @@
     <path d="M-5,-70 Q0,-67.5 5,-71 Q0,-69 -5,-70 Z" fill="#7a1f3d"/>
 
     <!-- witch hat -->
-    <ellipse cx="0" cy="-95" rx="20" ry="5" fill="#0f0916"/>
-    <path d="M-13,-95 L2,-140 L13,-94 Z" fill="#1c1226"/>
-    <path d="M2,-140 L-3,-133 L5,-131 Z" fill="#1c1226"/>
-    <rect x="-14" y="-101" width="24" height="6" fill="#3a1a52"/>
+    <ellipse cx="0" cy="-93" rx="30" ry="7" fill="#0f0916"/>
+    <path d="M-14,-95 L2,-142 L14,-94 Z" fill="#1c1226"/>
+    <path d="M2,-142 L-3,-134 L5,-132 Z" fill="#1c1226"/>
+    <rect x="-15" y="-101" width="26" height="6" fill="#3a1a52"/>
    </g>
   </g>
 </svg>
