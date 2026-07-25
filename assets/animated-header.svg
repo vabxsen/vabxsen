@@ -7,7 +7,7 @@
   <g opacity="0.95">
     <g transform="translate(1240,20)">
       <animateTransform attributeName="transform" type="translate" values="1240,20;-40,42" dur="9s" begin="0s" repeatCount="indefinite"/>
-      <g transform="rotate(-89.0)">
+      <g transform="rotate(89.0)">
         <g>
           <animateTransform attributeName="transform" type="scale" values="1;1.15;1" dur="0.6s" repeatCount="indefinite"/>
           <path d="M-3,-2 Q-7,-12 -3,-24 Q0,-29 3,-24 Q7,-12 3,-2 Z" fill="#ff7a1a"/>
@@ -20,7 +20,7 @@
     </g>
     <g transform="translate(1240,38)">
       <animateTransform attributeName="transform" type="translate" values="1240,38;-40,14" dur="11s" begin="2.5s" repeatCount="indefinite"/>
-      <g transform="rotate(-91.1)">
+      <g transform="rotate(91.1)">
         <g>
           <animateTransform attributeName="transform" type="scale" values="1;1.15;1" dur="0.6s" repeatCount="indefinite"/>
           <path d="M-3,-2 Q-7,-12 -3,-24 Q0,-29 3,-24 Q7,-12 3,-2 Z" fill="#ff7a1a"/>
@@ -33,7 +33,7 @@
     </g>
     <g transform="translate(1240,12)">
       <animateTransform attributeName="transform" type="translate" values="1240,12;-40,34" dur="8s" begin="5s" repeatCount="indefinite"/>
-      <g transform="rotate(-89.0)">
+      <g transform="rotate(89.0)">
         <g>
           <animateTransform attributeName="transform" type="scale" values="1;1.15;1" dur="0.6s" repeatCount="indefinite"/>
           <path d="M-3,-2 Q-7,-12 -3,-24 Q0,-29 3,-24 Q7,-12 3,-2 Z" fill="#ff7a1a"/>
@@ -46,7 +46,7 @@
     </g>
     <g transform="translate(1240,44)">
       <animateTransform attributeName="transform" type="translate" values="1240,44;-40,22" dur="10s" begin="7s" repeatCount="indefinite"/>
-      <g transform="rotate(-91.0)">
+      <g transform="rotate(91.0)">
         <g>
           <animateTransform attributeName="transform" type="scale" values="1;1.15;1" dur="0.6s" repeatCount="indefinite"/>
           <path d="M-3,-2 Q-7,-12 -3,-24 Q0,-29 3,-24 Q7,-12 3,-2 Z" fill="#ff7a1a"/>
