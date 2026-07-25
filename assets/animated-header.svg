@@ -86,7 +86,7 @@
    </g>
   </g>
 
-  <g transform="translate(170,205) scale(1.6)">
+  <g transform="translate(170,205) scale(1.6) scale(-1,1)">
    <g>
     <animateTransform attributeName="transform" type="rotate" values="-3;3;-3" dur="2.6s" repeatCount="indefinite"/>
    <g>
