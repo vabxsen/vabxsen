@@ -46,8 +46,8 @@
 
 <div align="center">
 
-<img width="49%" src="https://gh-readme-stats.vercel.app/api?username=vabxsen&show_icons=true&hide_border=true&border_radius=12&bg_color=000000&title_color=8b5cf6&icon_color=22d3ee&text_color=e6e6e6&ring_color=8b5cf6&include_all_commits=true&count_private=true&disable_animations=true" alt="vabxsen's github stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vabxsen&hide_border=true&border_radius=12&background=000000&ring=8b5cf6&fire=22d3ee&currStreakNum=ffffff&sideNums=e6e6e6&currStreakLabel=8b5cf6&sideLabels=e6e6e6&dates=888888&disable_animations=true" alt="streak stats"/>
+<img height="195" hspace="10" src="https://gh-readme-stats.vercel.app/api?username=vabxsen&show_icons=true&hide_border=true&border_radius=12&bg_color=000000&title_color=8b5cf6&icon_color=22d3ee&text_color=e6e6e6&ring_color=8b5cf6&include_all_commits=true&count_private=true&disable_animations=true" alt="vabxsen's github stats"/>
+<img height="195" hspace="10" src="https://github-readme-streak-stats.herokuapp.com/?user=vabxsen&hide_border=true&border_radius=12&background=000000&ring=8b5cf6&fire=22d3ee&currStreakNum=ffffff&sideNums=e6e6e6&currStreakLabel=8b5cf6&sideLabels=e6e6e6&dates=888888&disable_animations=true" alt="streak stats"/>
 
 <img width="360" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=vabxsen&hide_border=true&border_radius=12&bg_color=000000&title_color=8b5cf6&text_color=e6e6e6&layout=donut&langs_count=8&disable_animations=true" alt="top languages"/>
 
