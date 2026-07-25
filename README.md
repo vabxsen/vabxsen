@@ -38,6 +38,10 @@
 
 <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,firebase,androidstudio,opencv,git,github,figma&theme=dark" alt="tech stack icons"/>
 
+<br/><br/>
+
+<img src="assets/terminal-boot.svg" alt="terminal boot sequence" width="500"/>
+
 </div>
 
 <br/>
