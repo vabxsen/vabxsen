@@ -95,4 +95,6 @@
 
 <br clear="both"/>
 
+<br/><br/><br/>
+
 <img src="assets/footer-banner.svg" alt="Thanks for stopping by" width="100%"/>
