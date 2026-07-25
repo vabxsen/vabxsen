@@ -6,8 +6,8 @@
   <text x="600" y="105" font-family="Cascadia Code, Consolas, monospace" font-size="68" font-weight="700" fill="#ffffff" text-anchor="middle">Vaibhav Sen</text>
   <text x="600" y="145" font-family="Cascadia Code, Consolas, monospace" font-size="22" fill="#e6e6e6" text-anchor="middle">Indie Developer • Solo Builder</text>
 
-  <g transform="translate(960,60)">
-    <animateTransform attributeName="transform" type="translate" values="960,60;960,54;960,60" dur="1.8s" repeatCount="indefinite" additive="replace"/>
+  <g transform="translate(1100,60)">
+    <animateTransform attributeName="transform" type="translate" values="1100,60;1100,54;1100,60" dur="1.8s" repeatCount="indefinite" additive="replace"/>
 
     <!-- speech bubble -->
     <g>
