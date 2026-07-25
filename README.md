@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/animated-header.svg?v=27" alt="Vaibhav Sen - Indie Developer, Solo Builder" width="100%"/>
+<img src="assets/animated-header.svg?v=28" alt="Vaibhav Sen - Indie Developer, Solo Builder" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Cascadia+Code&weight=600&size=22&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&width=650&lines=Solo+dev+building+Slip%2C+Doclee+%26+more;Python+%7C+TypeScript+%7C+React+%7C+Firebase;Turning+3am+ideas+into+real+apps" alt="Typing SVG" />
 
