@@ -94,3 +94,5 @@
 <a href="https://steamcommunity.com/profiles/76561199735052667/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/></a>
 
 <br clear="both"/>
+
+<img src="assets/footer-banner.svg" alt="Thanks for stopping by" width="100%"/>
