@@ -24,7 +24,7 @@
 
 <img src="assets/blob-buddy.gif" width="140" align="right"/>
 
-- 🛠️ Building small, sharp apps solo — currently deep in **Slip** 📱, **Doclee** 📄, **Nexrig** ⚙️, **PricePilot** 💸 and **Dailynx** 🗓️
+- 🌙 Turning 3am ideas into real apps
 - 🐍 Started with Python automation & CV projects (👁️ drowsiness detection, 🔳 QR tools, 🔊 TTS)
 - 🌐 Now mostly living in TypeScript/React + Firebase land
 - 📚 Learning in public — check out my [Python roadmap repo](https://github.com/vabxsen/Advanced-Python-Roadmap-by-vabxsen) 🗺️
