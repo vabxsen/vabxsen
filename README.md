@@ -4,13 +4,15 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Cascadia+Code&weight=600&size=22&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&width=650&lines=Solo+dev+building+Slip%2C+Doclee+%26+more;Python+%7C+TypeScript+%7C+React+%7C+Firebase;Turning+3am+ideas+into+real+apps" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=vabxsen&color=8b5cf6&style=flat-square&label=PROFILE+VIEWS" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=vabxsen&color=8b5cf6&style=flat-square&label=SOULS+COLLECTED" alt="souls collected"/>
 
 <br/><br/>
 
 <img src="assets/xp-bar.svg?v=2" alt="Level 12, 5 of 25 XP to Level 13, based on 305 contributions this year"/>
 
 </div>
+
+<img src="assets/spider-drop.svg" width="60" align="right"/>
 
 <br/>
 
@@ -31,6 +33,14 @@
 - ☕ Fueled by late nights and too much coffee.
 
 <br clear="both"/>
+
+<div align="center">
+
+<img src="assets/heartbeat.svg" alt="status: still alive" width="500"/>
+
+</div>
+
+<br/>
 
 ## Tech Stack <img src="assets/jack-o-lantern.svg" width="40" align="absmiddle"/>
 
