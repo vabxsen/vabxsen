@@ -24,11 +24,11 @@
 
 <img src="assets/blob-buddy.gif" width="140" align="right"/>
 
-- 🌙 Turning 3am ideas into real apps
-- 🐍 Started with Python automation & CV projects (👁️ drowsiness detection, 🔳 QR tools, 🔊 TTS)
-- 🌐 Now mostly living in TypeScript/React + Firebase land
-- 📚 Learning in public — check out my [Python roadmap repo](https://github.com/vabxsen/Advanced-Python-Roadmap-by-vabxsen) 🗺️
-- ☕ Fueled by late nights and too much coffee
+- 🌙 Turning 3am ideas into real apps.
+- 🐍 Started with Python automation & CV projects (👁️ drowsiness detection, 🔳 QR tools, 🔊 TTS).
+- 🌐 Now mostly living in TypeScript/React + Firebase land.
+- 📚 Learning in public — check out my [Python roadmap repo](https://github.com/vabxsen/Advanced-Python-Roadmap-by-vabxsen) 🗺️.
+- ☕ Fueled by late nights and too much coffee.
 
 <br clear="both"/>
 
