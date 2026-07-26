@@ -54,7 +54,7 @@
 
 <br/>
 
-## GitHub Stats
+## GitHub Stats <img src="assets/jack-o-lantern.svg" width="40" align="absmiddle"/>
 
 <div align="center">
 
