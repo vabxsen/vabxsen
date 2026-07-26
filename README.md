@@ -12,7 +12,7 @@
 
 </div>
 
-<img src="assets/spider-drop.svg" width="60" align="right"/>
+<img src="assets/spider-drop.svg" width="110" align="right"/>
 
 <br/>
 
