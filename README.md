@@ -46,6 +46,14 @@
 
 <br/>
 
+<div align="center">
+
+<img src="assets/cat-wanderer.svg" alt="wandering black cat" width="100%"/>
+
+</div>
+
+<br/>
+
 ## GitHub Stats
 
 <div align="center">
