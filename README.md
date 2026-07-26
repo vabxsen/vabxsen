@@ -90,6 +90,9 @@
 <a href="mailto:cheeseburst06@gmail.com"><img src="https://img.shields.io/badge/GET%20IN%20TOUCH!-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Get in touch"/></a>
 <br/><br/>
 <a href="https://www.instagram.com/vabxsen"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<br/><br/>
+<img src="https://img.shields.io/badge/Discord-vabxsen-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+<br/><br/>
 <a href="https://www.linkedin.com/in/vabxsen/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://steamcommunity.com/profiles/76561199735052667/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/></a>
 
