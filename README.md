@@ -40,6 +40,10 @@
 
 <img src="assets/heartbeat.svg" alt="status: still alive" width="500"/>
 
+<br/><br/>
+
+<img src="assets/cauldron.svg" alt="currently brewing" width="500"/>
+
 </div>
 
 <br/>
@@ -61,6 +65,18 @@
 <div align="center">
 
 <img src="assets/cat-wanderer.svg" alt="wandering black cat" width="100%"/>
+
+</div>
+
+<br/>
+
+## Side Project Graveyard <img src="assets/jack-o-lantern.svg?v=2" width="40" align="absmiddle"/>
+
+<div align="center">
+
+<i>here lie the late nights, the scope creep, and the "just one more feature"</i>
+
+<img src="assets/graveyard.svg" alt="side project graveyard" width="100%"/>
 
 </div>
 

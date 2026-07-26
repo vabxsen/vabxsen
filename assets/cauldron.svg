@@ -1,0 +1,76 @@
+<svg width="520" height="200" viewBox="0 0 520 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="cauldronGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="steamBlur" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="2.5"/>
+    </filter>
+  </defs>
+
+  <!-- ambient glow under the cauldron -->
+  <ellipse cx="110" cy="120" rx="70" ry="40" fill="#8b5cf6" opacity="0.18">
+    <animate attributeName="fill" values="#8b5cf6;#22d3ee;#8b5cf6" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.14;0.24;0.14" dur="2.2s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <!-- steam wisps -->
+  <ellipse cx="98" cy="70" rx="4" ry="9" fill="#cfd6e6" opacity="0" filter="url(#steamBlur)">
+    <animate attributeName="opacity" values="0;0.3;0" keyTimes="0;0.4;1" dur="3s" begin="0s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="0,0;-6,-36" dur="3s" begin="0s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="112" cy="72" rx="3.5" ry="7" fill="#cfd6e6" opacity="0" filter="url(#steamBlur)">
+    <animate attributeName="opacity" values="0;0.28;0" keyTimes="0;0.4;1" dur="3.4s" begin="1s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="0,0;5,-34" dur="3.4s" begin="1s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="125" cy="70" rx="3" ry="6" fill="#cfd6e6" opacity="0" filter="url(#steamBlur)">
+    <animate attributeName="opacity" values="0;0.25;0" keyTimes="0;0.4;1" dur="2.8s" begin="1.9s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="0,0;-4,-30" dur="2.8s" begin="1.9s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <!-- cauldron body -->
+  <path d="M 58,90 Q 52,148 110,158 Q 168,148 162,90 Z" fill="#17171e" stroke="#3a3a46" stroke-width="2"/>
+  <path d="M 68,96 Q 66,120 78,138" fill="none" stroke="#4a4a58" stroke-width="2.5" opacity="0.5" stroke-linecap="round"/>
+
+  <!-- legs -->
+  <path d="M 70,155 L 62,175 L 74,175 L 80,157 Z" fill="#17171e" stroke="#3a3a46" stroke-width="1.5"/>
+  <path d="M 100,158 L 98,178 L 110,178 L 110,158 Z" fill="#17171e" stroke="#3a3a46" stroke-width="1.5"/>
+  <path d="M 150,155 L 158,175 L 146,175 L 140,157 Z" fill="#17171e" stroke="#3a3a46" stroke-width="1.5"/>
+
+  <!-- rim -->
+  <ellipse cx="110" cy="90" rx="52" ry="13" fill="#20202a" stroke="#4a4a58" stroke-width="2"/>
+
+  <!-- bubbling liquid -->
+  <ellipse cx="110" cy="90" rx="44" ry="9" fill="#7c3fd8" filter="url(#cauldronGlow)">
+    <animate attributeName="fill" values="#7c3fd8;#22d3ee;#39c46b;#7c3fd8" dur="7s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <!-- rising bubbles -->
+  <circle cx="95" cy="88" r="3" fill="#a78bfa" opacity="0.9">
+    <animate attributeName="opacity" values="0.9;0.9;0" keyTimes="0;0.7;1" dur="2.2s" begin="0s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="0,0;-4,-48" dur="2.2s" begin="0s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="115" cy="90" r="2.3" fill="#67e8f9" opacity="0.9">
+    <animate attributeName="opacity" values="0.9;0.9;0" keyTimes="0;0.7;1" dur="1.9s" begin="0.6s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="0,0;5,-44" dur="1.9s" begin="0.6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="128" cy="88" r="2.6" fill="#86efac" opacity="0.9">
+    <animate attributeName="opacity" values="0.9;0.9;0" keyTimes="0;0.7;1" dur="2.5s" begin="1.2s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="0,0;-3,-46" dur="2.5s" begin="1.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="102" cy="90" r="2" fill="#c4b5fd" opacity="0.9">
+    <animate attributeName="opacity" values="0.9;0.9;0" keyTimes="0;0.7;1" dur="2.1s" begin="1.7s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" values="0,0;3,-42" dur="2.1s" begin="1.7s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- status text -->
+  <text x="215" y="98" font-family="Cascadia Code, Consolas, monospace" font-size="16" font-weight="600" fill="#8a8a99">🧪 Currently brewing:</text>
+  <text x="215" y="126" font-family="Cascadia Code, Consolas, monospace" font-size="20" font-weight="700" fill="#e6e6e6">
+    Slip, Doclee &amp; more
+    <animate attributeName="fill" values="#e6e6e6;#c9a8ff;#e6e6e6" dur="4s" repeatCount="indefinite"/>
+  </text>
+</svg>
