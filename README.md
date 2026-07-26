@@ -18,7 +18,7 @@
 
 <br/>
 
-## About <img src="assets/jack-o-lantern.svg" width="40" align="absmiddle"/>
+## About <img src="assets/jack-o-lantern.svg?v=2" width="40" align="absmiddle"/>
 
 <div align="center">
 
@@ -44,7 +44,7 @@
 
 <br/>
 
-## Tech Stack <img src="assets/jack-o-lantern.svg" width="40" align="absmiddle"/>
+## Tech Stack <img src="assets/jack-o-lantern.svg?v=2" width="40" align="absmiddle"/>
 
 <div align="center">
 
@@ -66,7 +66,7 @@
 
 <br/>
 
-## GitHub Stats <img src="assets/jack-o-lantern.svg" width="40" align="absmiddle"/>
+## GitHub Stats <img src="assets/jack-o-lantern.svg?v=2" width="40" align="absmiddle"/>
 
 <div align="center">
 
@@ -83,7 +83,7 @@
 
 </div>
 
-## Contribution Snake <img src="assets/jack-o-lantern.svg" width="40" align="absmiddle"/>
+## Contribution Snake <img src="assets/jack-o-lantern.svg?v=2" width="40" align="absmiddle"/>
 
 <div align="center">
 
@@ -105,7 +105,7 @@
 
 <br/>
 
-## Get in touch <img src="assets/jack-o-lantern.svg" width="40" align="absmiddle"/>
+## Get in touch <img src="assets/jack-o-lantern.svg?v=2" width="40" align="absmiddle"/>
 
 <img src="assets/anime-point-left.png" width="46%" align="right"/>
 
@@ -130,4 +130,4 @@
 
 </div>
 
-<img src="assets/footer-banner.svg" alt="Thanks for stopping by" width="100%"/>
+<img src="assets/footer-banner.svg?v=2" alt="Thanks for stopping by" width="100%"/>
