@@ -1,0 +1,86 @@
+<svg width="1200" height="150" viewBox="0 0 1200 150" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="150" fill="#000000"/>
+
+  <!-- bat swarm flyby -->
+  <g transform="translate(-30,51)">
+    <animateTransform attributeName="transform" type="translate" values="-30,51;1260,35" dur="8.0s" begin="0.0s" repeatCount="indefinite"/>
+    <g transform="scale(0.63)" fill="#9b86c2" opacity="0.85">
+      <g>
+        <animateTransform attributeName="transform" type="scale" values="1,1;1,0.35;1,1" dur="0.39s" repeatCount="indefinite"/>
+        <path d="M0,0 C-9,-7 -18,-5 -22,1 C-15,0 -8,3 0,0 C8,3 15,0 22,1 C18,-5 9,-7 0,0 Z"/>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(-30,22)">
+    <animateTransform attributeName="transform" type="translate" values="-30,22;1260,20" dur="8.9s" begin="0.9s" repeatCount="indefinite"/>
+    <g transform="scale(1.24)" fill="#9b86c2" opacity="0.85">
+      <g>
+        <animateTransform attributeName="transform" type="scale" values="1,1;1,0.35;1,1" dur="0.31s" repeatCount="indefinite"/>
+        <path d="M0,0 C-9,-7 -18,-5 -22,1 C-15,0 -8,3 0,0 C8,3 15,0 22,1 C18,-5 9,-7 0,0 Z"/>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(-30,21)">
+    <animateTransform attributeName="transform" type="translate" values="-30,21;1260,23" dur="8.1s" begin="1.8s" repeatCount="indefinite"/>
+    <g transform="scale(0.77)" fill="#9b86c2" opacity="0.85">
+      <g>
+        <animateTransform attributeName="transform" type="scale" values="1,1;1,0.35;1,1" dur="0.36s" repeatCount="indefinite"/>
+        <path d="M0,0 C-9,-7 -18,-5 -22,1 C-15,0 -8,3 0,0 C8,3 15,0 22,1 C18,-5 9,-7 0,0 Z"/>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(-30,17)">
+    <animateTransform attributeName="transform" type="translate" values="-30,17;1260,28" dur="6.6s" begin="2.7s" repeatCount="indefinite"/>
+    <g transform="scale(0.76)" fill="#9b86c2" opacity="0.85">
+      <g>
+        <animateTransform attributeName="transform" type="scale" values="1,1;1,0.35;1,1" dur="0.37s" repeatCount="indefinite"/>
+        <path d="M0,0 C-9,-7 -18,-5 -22,1 C-15,0 -8,3 0,0 C8,3 15,0 22,1 C18,-5 9,-7 0,0 Z"/>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(-30,17)">
+    <animateTransform attributeName="transform" type="translate" values="-30,17;1260,28" dur="8.9s" begin="3.6s" repeatCount="indefinite"/>
+    <g transform="scale(0.63)" fill="#9b86c2" opacity="0.85">
+      <g>
+        <animateTransform attributeName="transform" type="scale" values="1,1;1,0.35;1,1" dur="0.31s" repeatCount="indefinite"/>
+        <path d="M0,0 C-9,-7 -18,-5 -22,1 C-15,0 -8,3 0,0 C8,3 15,0 22,1 C18,-5 9,-7 0,0 Z"/>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(-30,81)">
+    <animateTransform attributeName="transform" type="translate" values="-30,81;1260,64" dur="7.4s" begin="4.5s" repeatCount="indefinite"/>
+    <g transform="scale(0.7)" fill="#9b86c2" opacity="0.85">
+      <g>
+        <animateTransform attributeName="transform" type="scale" values="1,1;1,0.35;1,1" dur="0.3s" repeatCount="indefinite"/>
+        <path d="M0,0 C-9,-7 -18,-5 -22,1 C-15,0 -8,3 0,0 C8,3 15,0 22,1 C18,-5 9,-7 0,0 Z"/>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(-30,49)">
+    <animateTransform attributeName="transform" type="translate" values="-30,49;1260,59" dur="10.1s" begin="5.4s" repeatCount="indefinite"/>
+    <g transform="scale(0.73)" fill="#9b86c2" opacity="0.85">
+      <g>
+        <animateTransform attributeName="transform" type="scale" values="1,1;1,0.35;1,1" dur="0.36s" repeatCount="indefinite"/>
+        <path d="M0,0 C-9,-7 -18,-5 -22,1 C-15,0 -8,3 0,0 C8,3 15,0 22,1 C18,-5 9,-7 0,0 Z"/>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(-30,91)">
+    <animateTransform attributeName="transform" type="translate" values="-30,91;1260,78" dur="7.9s" begin="6.3s" repeatCount="indefinite"/>
+    <g transform="scale(0.98)" fill="#9b86c2" opacity="0.85">
+      <g>
+        <animateTransform attributeName="transform" type="scale" values="1,1;1,0.35;1,1" dur="0.29s" repeatCount="indefinite"/>
+        <path d="M0,0 C-9,-7 -18,-5 -22,1 C-15,0 -8,3 0,0 C8,3 15,0 22,1 C18,-5 9,-7 0,0 Z"/>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(-30,17)">
+    <animateTransform attributeName="transform" type="translate" values="-30,17;1260,31" dur="7.0s" begin="7.2s" repeatCount="indefinite"/>
+    <g transform="scale(1.08)" fill="#9b86c2" opacity="0.85">
+      <g>
+        <animateTransform attributeName="transform" type="scale" values="1,1;1,0.35;1,1" dur="0.34s" repeatCount="indefinite"/>
+        <path d="M0,0 C-9,-7 -18,-5 -22,1 C-15,0 -8,3 0,0 C8,3 15,0 22,1 C18,-5 9,-7 0,0 Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
