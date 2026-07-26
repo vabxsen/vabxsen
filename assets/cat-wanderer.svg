@@ -10,38 +10,126 @@
   <!-- ground line -->
   <line x1="0" y1="128" x2="1200" y2="128" stroke="#2a2a38" stroke-width="1"/>
 
-  <!-- wandering black cat -->
-  <g>
-    <animateTransform attributeName="transform" type="translate" values="-80,115;1280,115" dur="15s" repeatCount="indefinite"/>
+  <!-- cat 1 -->
+  <g transform="translate(-80,112)">
+    <animateTransform attributeName="transform" type="translate" values="-80,112;1280,112" dur="13s" begin="0s" repeatCount="indefinite"/>
     <g>
-      <animateTransform attributeName="transform" type="translate" values="0,0;0,-3;0,0;0,-3;0,0" dur="0.6s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0,0;0,-3;0,0;0,-3;0,0" dur="0.55s" repeatCount="indefinite"/>
       <g>
-        <animateTransform attributeName="transform" type="scale" values="1,1;1,1;1.22,0.86;1,1;1,1" keyTimes="0;0.44;0.5;0.56;1" dur="15s" repeatCount="indefinite"/>
-
-        <!-- tail, swishing from its base near the body -->
+        <animateTransform attributeName="transform" type="scale" values="1,1;1,1;1.22,0.86;1,1;1,1" keyTimes="0;0.44;0.5;0.56;1" dur="13s" begin="0s" repeatCount="indefinite"/>
         <path d="M -20,-2 Q -34,-8 -31,-22 Q -29,-31 -19,-30" fill="none" stroke="#111116" stroke-width="6" stroke-linecap="round">
-          <animateTransform attributeName="transform" type="rotate" values="-9 -20 -2;9 -20 -2;-9 -20 -2" dur="1.3s" repeatCount="indefinite"/>
+          <animateTransform attributeName="transform" type="rotate" values="-9 -20 -2;9 -20 -2;-9 -20 -2" dur="1.2s" repeatCount="indefinite"/>
         </path>
-
-        <!-- body -->
         <ellipse cx="0" cy="0" rx="24" ry="13" fill="#111116"/>
-
-        <!-- head -->
         <circle cx="23" cy="-9" r="10.5" fill="#111116"/>
-
-        <!-- ears -->
         <path d="M 14,-17 L 18,-25 L 22,-17 Z" fill="#111116"/>
         <path d="M 22,-17 L 26,-26 L 30,-17 Z" fill="#111116"/>
-
-        <!-- eyes, blinking -->
         <ellipse cx="19.5" cy="-9.5" rx="1.7" ry="2.4" fill="#c8e04a">
           <animate attributeName="ry" values="2.4;2.4;0.4;2.4;2.4" keyTimes="0;0.9;0.94;0.98;1" dur="3.4s" repeatCount="indefinite"/>
         </ellipse>
         <ellipse cx="26.5" cy="-9.5" rx="1.7" ry="2.4" fill="#c8e04a">
           <animate attributeName="ry" values="2.4;2.4;0.4;2.4;2.4" keyTimes="0;0.9;0.94;0.98;1" dur="3.4s" repeatCount="indefinite"/>
         </ellipse>
+        <path d="M 22.3,-5.5 L 23.7,-5.5 L 23,-4.5 Z" fill="#e8a0b0"/>
+      </g>
+    </g>
+  </g>
 
-        <!-- nose -->
+  <!-- cat 2 -->
+  <g transform="translate(-80,118)">
+    <animateTransform attributeName="transform" type="translate" values="-80,118;1280,118" dur="15s" begin="3s" repeatCount="indefinite"/>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,0;0,-3;0,0;0,-3;0,0" dur="0.6s" repeatCount="indefinite"/>
+      <g>
+        <animateTransform attributeName="transform" type="scale" values="1,1;1,1;1.22,0.86;1,1;1,1" keyTimes="0;0.44;0.5;0.56;1" dur="15s" begin="3s" repeatCount="indefinite"/>
+        <path d="M -20,-2 Q -34,-8 -31,-22 Q -29,-31 -19,-30" fill="none" stroke="#111116" stroke-width="6" stroke-linecap="round">
+          <animateTransform attributeName="transform" type="rotate" values="-9 -20 -2;9 -20 -2;-9 -20 -2" dur="1.35s" repeatCount="indefinite"/>
+        </path>
+        <ellipse cx="0" cy="0" rx="24" ry="13" fill="#111116"/>
+        <circle cx="23" cy="-9" r="10.5" fill="#111116"/>
+        <path d="M 14,-17 L 18,-25 L 22,-17 Z" fill="#111116"/>
+        <path d="M 22,-17 L 26,-26 L 30,-17 Z" fill="#111116"/>
+        <ellipse cx="19.5" cy="-9.5" rx="1.7" ry="2.4" fill="#c8e04a">
+          <animate attributeName="ry" values="2.4;2.4;0.4;2.4;2.4" keyTimes="0;0.9;0.94;0.98;1" dur="3s" repeatCount="indefinite"/>
+        </ellipse>
+        <ellipse cx="26.5" cy="-9.5" rx="1.7" ry="2.4" fill="#c8e04a">
+          <animate attributeName="ry" values="2.4;2.4;0.4;2.4;2.4" keyTimes="0;0.9;0.94;0.98;1" dur="3s" repeatCount="indefinite"/>
+        </ellipse>
+        <path d="M 22.3,-5.5 L 23.7,-5.5 L 23,-4.5 Z" fill="#e8a0b0"/>
+      </g>
+    </g>
+  </g>
+
+  <!-- cat 3 -->
+  <g transform="translate(-80,108)">
+    <animateTransform attributeName="transform" type="translate" values="-80,108;1280,108" dur="14s" begin="6s" repeatCount="indefinite"/>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,0;0,-3;0,0;0,-3;0,0" dur="0.5s" repeatCount="indefinite"/>
+      <g>
+        <animateTransform attributeName="transform" type="scale" values="1,1;1,1;1.22,0.86;1,1;1,1" keyTimes="0;0.44;0.5;0.56;1" dur="14s" begin="6s" repeatCount="indefinite"/>
+        <path d="M -20,-2 Q -34,-8 -31,-22 Q -29,-31 -19,-30" fill="none" stroke="#111116" stroke-width="6" stroke-linecap="round">
+          <animateTransform attributeName="transform" type="rotate" values="-9 -20 -2;9 -20 -2;-9 -20 -2" dur="1.25s" repeatCount="indefinite"/>
+        </path>
+        <ellipse cx="0" cy="0" rx="24" ry="13" fill="#111116"/>
+        <circle cx="23" cy="-9" r="10.5" fill="#111116"/>
+        <path d="M 14,-17 L 18,-25 L 22,-17 Z" fill="#111116"/>
+        <path d="M 22,-17 L 26,-26 L 30,-17 Z" fill="#111116"/>
+        <ellipse cx="19.5" cy="-9.5" rx="1.7" ry="2.4" fill="#c8e04a">
+          <animate attributeName="ry" values="2.4;2.4;0.4;2.4;2.4" keyTimes="0;0.9;0.94;0.98;1" dur="3.7s" repeatCount="indefinite"/>
+        </ellipse>
+        <ellipse cx="26.5" cy="-9.5" rx="1.7" ry="2.4" fill="#c8e04a">
+          <animate attributeName="ry" values="2.4;2.4;0.4;2.4;2.4" keyTimes="0;0.9;0.94;0.98;1" dur="3.7s" repeatCount="indefinite"/>
+        </ellipse>
+        <path d="M 22.3,-5.5 L 23.7,-5.5 L 23,-4.5 Z" fill="#e8a0b0"/>
+      </g>
+    </g>
+  </g>
+
+  <!-- cat 4 -->
+  <g transform="translate(-80,122)">
+    <animateTransform attributeName="transform" type="translate" values="-80,122;1280,122" dur="16s" begin="9s" repeatCount="indefinite"/>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,0;0,-3;0,0;0,-3;0,0" dur="0.65s" repeatCount="indefinite"/>
+      <g>
+        <animateTransform attributeName="transform" type="scale" values="1,1;1,1;1.22,0.86;1,1;1,1" keyTimes="0;0.44;0.5;0.56;1" dur="16s" begin="9s" repeatCount="indefinite"/>
+        <path d="M -20,-2 Q -34,-8 -31,-22 Q -29,-31 -19,-30" fill="none" stroke="#111116" stroke-width="6" stroke-linecap="round">
+          <animateTransform attributeName="transform" type="rotate" values="-9 -20 -2;9 -20 -2;-9 -20 -2" dur="1.4s" repeatCount="indefinite"/>
+        </path>
+        <ellipse cx="0" cy="0" rx="24" ry="13" fill="#111116"/>
+        <circle cx="23" cy="-9" r="10.5" fill="#111116"/>
+        <path d="M 14,-17 L 18,-25 L 22,-17 Z" fill="#111116"/>
+        <path d="M 22,-17 L 26,-26 L 30,-17 Z" fill="#111116"/>
+        <ellipse cx="19.5" cy="-9.5" rx="1.7" ry="2.4" fill="#c8e04a">
+          <animate attributeName="ry" values="2.4;2.4;0.4;2.4;2.4" keyTimes="0;0.9;0.94;0.98;1" dur="3.2s" repeatCount="indefinite"/>
+        </ellipse>
+        <ellipse cx="26.5" cy="-9.5" rx="1.7" ry="2.4" fill="#c8e04a">
+          <animate attributeName="ry" values="2.4;2.4;0.4;2.4;2.4" keyTimes="0;0.9;0.94;0.98;1" dur="3.2s" repeatCount="indefinite"/>
+        </ellipse>
+        <path d="M 22.3,-5.5 L 23.7,-5.5 L 23,-4.5 Z" fill="#e8a0b0"/>
+      </g>
+    </g>
+  </g>
+
+  <!-- cat 5 -->
+  <g transform="translate(-80,115)">
+    <animateTransform attributeName="transform" type="translate" values="-80,115;1280,115" dur="13.5s" begin="12s" repeatCount="indefinite"/>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,0;0,-3;0,0;0,-3;0,0" dur="0.58s" repeatCount="indefinite"/>
+      <g>
+        <animateTransform attributeName="transform" type="scale" values="1,1;1,1;1.22,0.86;1,1;1,1" keyTimes="0;0.44;0.5;0.56;1" dur="13.5s" begin="12s" repeatCount="indefinite"/>
+        <path d="M -20,-2 Q -34,-8 -31,-22 Q -29,-31 -19,-30" fill="none" stroke="#111116" stroke-width="6" stroke-linecap="round">
+          <animateTransform attributeName="transform" type="rotate" values="-9 -20 -2;9 -20 -2;-9 -20 -2" dur="1.3s" repeatCount="indefinite"/>
+        </path>
+        <ellipse cx="0" cy="0" rx="24" ry="13" fill="#111116"/>
+        <circle cx="23" cy="-9" r="10.5" fill="#111116"/>
+        <path d="M 14,-17 L 18,-25 L 22,-17 Z" fill="#111116"/>
+        <path d="M 22,-17 L 26,-26 L 30,-17 Z" fill="#111116"/>
+        <ellipse cx="19.5" cy="-9.5" rx="1.7" ry="2.4" fill="#c8e04a">
+          <animate attributeName="ry" values="2.4;2.4;0.4;2.4;2.4" keyTimes="0;0.9;0.94;0.98;1" dur="3.5s" repeatCount="indefinite"/>
+        </ellipse>
+        <ellipse cx="26.5" cy="-9.5" rx="1.7" ry="2.4" fill="#c8e04a">
+          <animate attributeName="ry" values="2.4;2.4;0.4;2.4;2.4" keyTimes="0;0.9;0.94;0.98;1" dur="3.5s" repeatCount="indefinite"/>
+        </ellipse>
         <path d="M 22.3,-5.5 L 23.7,-5.5 L 23,-4.5 Z" fill="#e8a0b0"/>
       </g>
     </g>
