@@ -32,14 +32,6 @@
 
 <br clear="both"/>
 
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&backgroundColor=000000&quoteColor=e6e6e6&authorColor=8b5cf6&symbolColor=22d3ee" alt="random dev quote"/>
-
-</div>
-
-<br/>
-
 ## Tech Stack
 
 <div align="center">
