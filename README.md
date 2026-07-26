@@ -38,10 +38,6 @@
 
 <div align="center">
 
-<img src="assets/heartbeat.svg" alt="status: still alive" width="500"/>
-
-<br/><br/>
-
 <img src="assets/cauldron.svg" alt="currently brewing" width="500"/>
 
 </div>
