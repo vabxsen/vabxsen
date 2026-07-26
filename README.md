@@ -14,7 +14,7 @@
 
 <br/>
 
-## About
+## About <img src="assets/jack-o-lantern.svg" width="40" align="absmiddle"/>
 
 <div align="center">
 
@@ -32,7 +32,7 @@
 
 <br clear="both"/>
 
-## Tech Stack
+## Tech Stack <img src="assets/jack-o-lantern.svg" width="40" align="absmiddle"/>
 
 <div align="center">
 
@@ -67,7 +67,7 @@
 
 <br/>
 
-## Contribution Snake
+## Contribution Snake <img src="assets/jack-o-lantern.svg" width="40" align="absmiddle"/>
 
 <div align="center">
 
@@ -89,7 +89,7 @@
 
 <br/>
 
-## Get in touch
+## Get in touch <img src="assets/jack-o-lantern.svg" width="40" align="absmiddle"/>
 
 <img src="assets/anime-point-left.png" width="46%" align="right"/>
 
