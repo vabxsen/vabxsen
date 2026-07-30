@@ -6,15 +6,11 @@
 
 <img src="https://komarev.com/ghpvc/?username=vabxsen&color=8b5cf6&style=flat-square&label=SOULS+COLLECTED" alt="souls collected"/>
 
-<img src="https://img.shields.io/badge/%E2%9A%A0%EF%B8%8F%20THIS%20REPO%20IS%20HAUNTED-8b5cf6?style=for-the-badge" alt="this repo is haunted"/>
-
 <br/><br/>
 
 <img src="assets/xp-bar.svg?v=2" alt="Level 12, 5 of 25 XP to Level 13, based on 305 contributions this year"/>
 
 </div>
-
-<img src="assets/spider-drop.svg" width="110" align="right"/>
 
 <br/>
 
