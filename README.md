@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<img src="assets/xp-bar.svg?v=2" alt="Level 12, 5 of 25 XP to Level 13, based on 305 contributions this year"/>
+<img src="assets/xp-bar.svg" alt="Level progress bar, based on live GitHub contributions this year"/>
 
 </div>
 

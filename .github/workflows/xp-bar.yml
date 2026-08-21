@@ -1,0 +1,39 @@
+name: update xp bar
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  update:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: regenerate assets/xp-bar.svg from live contribution count
+        env:
+          GH_LOGIN: ${{ github.repository_owner }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/generate-xp-bar.mjs
+
+      - name: commit if changed
+        run: |
+          if git diff --quiet -- assets/xp-bar.svg; then
+            echo "no change"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/xp-bar.svg
+          git commit -m "chore: update xp bar [skip ci]"
+          git push
