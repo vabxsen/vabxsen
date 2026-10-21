@@ -4,7 +4,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/portrait-dots-dark.svg?v=3" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/portrait-dots-light.svg?v=4" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/portrait-dots-light.svg?v=3" />
   <img alt="Dot-matrix portrait of Vaibhav Sen" src="assets/portrait-dots-dark.svg?v=3" width="280"/>
 </picture>
 

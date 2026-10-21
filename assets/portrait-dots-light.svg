@@ -7,8 +7,9 @@
 <animate attributeName="height" from="0" to="1162" dur="2.4s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
 </rect></mask>
 </defs>
+<rect width="700" height="930" rx="24" fill="#000000"/>
 <g mask="url(#reveal)">
-<g fill="#000000">
+<g fill="#ffffff">
 <circle cx="265" cy="65" r="1.6"/>
 <circle cx="275" cy="65" r="1.8"/>
 <circle cx="285" cy="65" r="1.6"/>
