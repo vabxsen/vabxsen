@@ -3,9 +3,9 @@
 <img src="assets/animated-header.svg?v=36" alt="Vaibhav Sen - Indie Developer, Solo Builder" width="100%"/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/portrait-dots-dark.svg?v=6" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/portrait-dots-light.svg?v=6" />
-  <img alt="Dot-matrix portrait of Vaibhav Sen" src="assets/portrait-dots-dark.svg?v=6" width="280"/>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/portrait-dots-dark.svg?v=7" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/portrait-dots-light.svg?v=7" />
+  <img alt="Dot-matrix portrait of Vaibhav Sen" src="assets/portrait-dots-dark.svg?v=7" width="280"/>
 </picture>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Cascadia+Code&weight=600&size=22&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&width=650&lines=Solo+dev+building+Slip%2C+Doclee+%26+more;Python+%7C+TypeScript+%7C+React+%7C+Firebase;Turning+3am+ideas+into+real+apps" alt="Typing SVG" />
