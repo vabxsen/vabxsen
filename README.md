@@ -6,6 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Cascadia+Code&weight=600&size=22&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&width=650&lines=Solo+dev+building+Slip%2C+Doclee+%26+more;Python+%7C+TypeScript+%7C+React+%7C+Firebase;Turning+3am+ideas+into+real+apps" alt="Typing SVG" />
 
+<a href="https://vabxsen.vercel.app"><img src="https://img.shields.io/badge/Portfolio-vabxsen.vercel.app-8b5cf6?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio: vabxsen.vercel.app"/></a>
 <img src="https://komarev.com/ghpvc/?username=vabxsen&color=8b5cf6&style=flat-square&label=SOULS+COLLECTED" alt="souls collected"/>
 
 <br/><br/>
@@ -27,6 +28,7 @@
 <img src="assets/blob-buddy.gif" width="140" align="right"/>
 
 - 🌙 Turning 3am ideas into real apps.
+- 🔮 Everything I've built lives on my portfolio: [vabxsen.vercel.app](https://vabxsen.vercel.app).
 - 🐍 Started with Python automation & CV projects (👁️ drowsiness detection, 🔳 QR tools, 🔊 TTS).
 - 🌐 Now mostly living in TypeScript/React + Firebase land.
 - 📚 Learning in public — check out my [Python roadmap repo](https://github.com/vabxsen/Advanced-Python-Roadmap-by-vabxsen) 🗺️.
@@ -119,6 +121,8 @@
 <img src="assets/anime-point-left.png" width="46%" align="right"/>
 
 <img src="assets/if-you-know-you-know.png" width="25%"/>
+<br/><br/>
+<a href="https://vabxsen.vercel.app"><img src="https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <br/><br/>
 <a href="mailto:cheeseburst06@gmail.com"><img src="https://img.shields.io/badge/GET%20IN%20TOUCH!-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Get in touch"/></a>
 <br/><br/>
